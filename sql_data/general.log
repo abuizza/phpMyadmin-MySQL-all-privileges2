@@ -1,0 +1,2465 @@
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230917 13:49:59	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230922 10:29:24	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+230929 12:15:28	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231001 13:36:38	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231013  7:25:04	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231016 12:50:06	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231017  0:13:02	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231031 15:11:28	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231031 15:11:57	     3 Connect	root@localhost on  using Socket
+		     3 Connect	Access denied for user 'root'@'localhost'
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231101 14:37:04	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231104  6:43:01	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231114  8:08:38	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231117 14:00:13	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231121  8:25:19	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231129 10:51:39	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231211  3:16:49	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231212  8:34:58	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+231212  8:34:59	     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231214 14:30:09	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+231224  6:34:06	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+240703  7:58:16	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS MY_DATABASE_NAME
+		     4 Query	CREATE USER IF NOT EXISTS 'MY_USERNAME'@'localhost' IDENTIFIED BY 'MY_PASSWORD'
+		     4 Query	GRANT ALL PRIVILEGES ON MY_DATABASE_NAME.* TO 'MY_USERNAME'@'localhost'
+		     4 Query	FLUSH PRIVILEGES
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+240703  8:04:59	     3 Connect	MY_USERNAME@localhost on  using Socket
+		     3 Query	SELECT @@version, @@version_comment
+		     3 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     3 Query	SET lc_messages = 'en_US'
+		     4 Connect	MY_USERNAME@localhost on  using Socket
+		     4 Quit	
+		     3 Quit	
+		     5 Connect	MY_USERNAME@localhost on  using Socket
+		     5 Query	SELECT @@version, @@version_comment
+		     5 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     5 Query	SET lc_messages = 'en_US'
+		     6 Connect	MY_USERNAME@localhost on  using Socket
+		     6 Query	SHOW TABLES FROM `phpmyadmin`
+		     5 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		     6 Query	SHOW TABLES FROM `phpmyadmin`
+		     5 Query	SELECT 1 FROM mysql.user LIMIT 1
+		     5 Query	SELECT CURRENT_USER()
+		     5 Query	SHOW GRANTS
+		     5 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		     5 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		     5 Query	SHOW SESSION VARIABLES LIKE 'character_set_server'
+		     5 Query	SELECT USER()
+		     5 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		     5 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		     5 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		     5 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     5 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     5 Query	SHOW MASTER LOGS
+		     6 Quit	
+		     5 Quit	
+240703  8:05:02	     7 Connect	MY_USERNAME@localhost on  using Socket
+		     7 Query	SELECT @@version, @@version_comment
+		     7 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     7 Query	SET lc_messages = 'en_US'
+		     8 Connect	MY_USERNAME@localhost on  using Socket
+		     8 Query	SHOW TABLES FROM `phpmyadmin`
+		     7 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		     8 Query	SHOW TABLES FROM `phpmyadmin`
+		     7 Query	SELECT 1 FROM mysql.user LIMIT 1
+		     7 Query	SELECT CURRENT_USER()
+		     7 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     7 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     8 Quit	
+		     7 Quit	
+		     9 Connect	MY_USERNAME@localhost on  using Socket
+		     9 Query	SELECT @@version, @@version_comment
+		     9 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     9 Query	SET lc_messages = 'en_US'
+		    10 Connect	MY_USERNAME@localhost on  using Socket
+		    10 Query	SHOW TABLES FROM `phpmyadmin`
+		     9 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    10 Query	SHOW TABLES FROM `phpmyadmin`
+		     9 Query	SELECT CURRENT_USER()
+		     9 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		     9 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		     9 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		     9 Query	SELECT 1 FROM mysql.user LIMIT 1
+		     9 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     9 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    10 Quit	
+		     9 Quit	
+		    11 Connect	MY_USERNAME@localhost on  using Socket
+		    11 Query	SELECT @@version, @@version_comment
+		    11 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    11 Query	SET lc_messages = 'en_US'
+		    12 Connect	MY_USERNAME@localhost on  using Socket
+		    12 Query	SHOW TABLES FROM `phpmyadmin`
+		    11 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    12 Query	SHOW TABLES FROM `phpmyadmin`
+		    11 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    11 Query	SELECT CURRENT_USER()
+		    11 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    11 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    12 Quit	
+		    11 Quit	
+		    13 Connect	MY_USERNAME@localhost on  using Socket
+		    13 Query	SELECT @@version, @@version_comment
+		    13 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    13 Query	SET lc_messages = 'en_US'
+		    14 Connect	MY_USERNAME@localhost on  using Socket
+		    14 Query	SHOW TABLES FROM `phpmyadmin`
+		    13 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    14 Query	SHOW TABLES FROM `phpmyadmin`
+		    14 Quit	
+		    13 Quit	
+240703  8:05:03	    15 Connect	MY_USERNAME@localhost on  using Socket
+		    15 Query	SELECT @@version, @@version_comment
+		    15 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    15 Query	SET lc_messages = 'en_US'
+		    16 Connect	MY_USERNAME@localhost on  using Socket
+		    16 Query	SHOW TABLES FROM `phpmyadmin`
+		    15 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    16 Query	SHOW TABLES FROM `phpmyadmin`
+		    15 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    15 Query	SELECT CURRENT_USER()
+		    15 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    15 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    16 Quit	
+		    15 Quit	
+240703  8:05:06	    17 Connect	MY_USERNAME@localhost on  using Socket
+		    17 Query	SELECT @@version, @@version_comment
+		    17 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    17 Query	SET lc_messages = 'en_US'
+		    18 Connect	MY_USERNAME@localhost on  using Socket
+		    18 Query	SHOW TABLES FROM `phpmyadmin`
+		    17 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    18 Query	SHOW TABLES FROM `phpmyadmin`
+		    17 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    17 Query	SELECT CURRENT_USER()
+		    17 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		    17 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		    17 Query	SHOW SESSION VARIABLES LIKE 'character_set_server'
+		    17 Query	SELECT USER()
+		    17 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    17 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    18 Quit	
+		    17 Quit	
+240703  8:05:07	    19 Connect	MY_USERNAME@localhost on  using Socket
+		    19 Query	SELECT @@version, @@version_comment
+		    19 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    19 Query	SET lc_messages = 'en_US'
+		    20 Connect	MY_USERNAME@localhost on  using Socket
+		    20 Query	SHOW TABLES FROM `phpmyadmin`
+		    19 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    20 Query	SHOW TABLES FROM `phpmyadmin`
+		    20 Quit	
+		    19 Quit	
+		    21 Connect	MY_USERNAME@localhost on  using Socket
+		    21 Query	SELECT @@version, @@version_comment
+		    21 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    21 Query	SET lc_messages = 'en_US'
+		    22 Connect	MY_USERNAME@localhost on  using Socket
+		    22 Query	SHOW TABLES FROM `phpmyadmin`
+		    21 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    22 Query	SHOW TABLES FROM `phpmyadmin`
+		    21 Query	SELECT CURRENT_USER()
+		    21 Query	SHOW GRANTS
+		    21 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		    21 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    21 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    21 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    21 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    21 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    21 Query	SHOW MASTER LOGS
+		    22 Quit	
+		    21 Quit	
+240703  8:07:01	    23 Connect	MY_USERNAME@localhost on  using Socket
+		    23 Query	SELECT @@version, @@version_comment
+		    23 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    23 Query	SET lc_messages = 'en_US'
+		    24 Connect	MY_USERNAME@localhost on  using Socket
+		    24 Quit	
+		    23 Quit	
+		    25 Connect	MY_USERNAME@localhost on  using Socket
+		    25 Query	SELECT @@version, @@version_comment
+		    25 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    25 Query	SET lc_messages = 'en_US'
+		    26 Connect	MY_USERNAME@localhost on  using Socket
+		    26 Query	SHOW TABLES FROM `phpmyadmin`
+		    25 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    26 Query	SHOW TABLES FROM `phpmyadmin`
+		    25 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    25 Query	SELECT CURRENT_USER()
+		    25 Query	SHOW GRANTS
+		    25 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		    25 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		    25 Query	SHOW SESSION VARIABLES LIKE 'character_set_server'
+		    25 Query	SELECT USER()
+		    25 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		    25 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    25 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    25 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    25 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    25 Query	SHOW MASTER LOGS
+		    26 Quit	
+		    25 Quit	
+240703  8:07:04	    27 Connect	MY_USERNAME@localhost on  using Socket
+		    27 Query	SELECT @@version, @@version_comment
+		    27 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    27 Query	SET lc_messages = 'en_US'
+		    28 Connect	MY_USERNAME@localhost on  using Socket
+		    28 Query	SHOW TABLES FROM `phpmyadmin`
+		    27 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    28 Query	SHOW TABLES FROM `phpmyadmin`
+		    27 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    27 Query	SELECT CURRENT_USER()
+		    27 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    27 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    28 Quit	
+		    27 Quit	
+		    29 Connect	MY_USERNAME@localhost on  using Socket
+		    29 Query	SELECT @@version, @@version_comment
+		    29 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    29 Query	SET lc_messages = 'en_US'
+		    30 Connect	MY_USERNAME@localhost on  using Socket
+		    30 Query	SHOW TABLES FROM `phpmyadmin`
+		    29 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    30 Query	SHOW TABLES FROM `phpmyadmin`
+		    29 Query	SELECT CURRENT_USER()
+		    29 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		    29 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    29 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    29 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    29 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    29 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    30 Quit	
+		    29 Quit	
+		    31 Connect	MY_USERNAME@localhost on  using Socket
+		    31 Query	SELECT @@version, @@version_comment
+		    31 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    31 Query	SET lc_messages = 'en_US'
+		    32 Connect	MY_USERNAME@localhost on  using Socket
+		    32 Query	SHOW TABLES FROM `phpmyadmin`
+		    31 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    32 Query	SHOW TABLES FROM `phpmyadmin`
+		    31 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    31 Query	SELECT CURRENT_USER()
+		    31 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    31 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    31 Quit	
+		    32 Quit	
+		    33 Connect	MY_USERNAME@localhost on  using Socket
+		    33 Query	SELECT @@version, @@version_comment
+		    33 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    33 Query	SET lc_messages = 'en_US'
+		    34 Connect	MY_USERNAME@localhost on  using Socket
+		    34 Query	SHOW TABLES FROM `phpmyadmin`
+		    33 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    34 Query	SHOW TABLES FROM `phpmyadmin`
+		    34 Quit	
+		    33 Quit	
+240703  8:07:05	    35 Connect	MY_USERNAME@localhost on  using Socket
+		    35 Query	SELECT @@version, @@version_comment
+		    35 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    35 Query	SET lc_messages = 'en_US'
+		    36 Connect	MY_USERNAME@localhost on  using Socket
+		    36 Query	SHOW TABLES FROM `phpmyadmin`
+		    35 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    36 Query	SHOW TABLES FROM `phpmyadmin`
+		    35 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    35 Query	SELECT CURRENT_USER()
+		    35 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    35 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    36 Quit	
+		    35 Quit	
+240703  8:08:13	    37 Connect	MY_USERNAME@localhost on  using Socket
+		    37 Query	SELECT @@version, @@version_comment
+		    37 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    37 Query	SET lc_messages = 'en_US'
+		    38 Connect	MY_USERNAME@localhost on  using Socket
+		    38 Query	SHOW TABLES FROM `phpmyadmin`
+		    37 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    38 Query	SHOW TABLES FROM `phpmyadmin`
+		    37 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    37 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		    37 Query	SELECT CURRENT_USER()
+		    37 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    37 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    38 Quit	
+		    37 Quit	
+240703  8:09:26	    39 Connect	MY_USERNAME@localhost on  using Socket
+		    39 Query	SELECT @@version, @@version_comment
+		    39 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    39 Query	SET lc_messages = 'en_US'
+		    40 Connect	MY_USERNAME@localhost on  using Socket
+		    40 Query	SHOW TABLES FROM `phpmyadmin`
+		    39 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    40 Query	SHOW TABLES FROM `phpmyadmin`
+		    39 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    39 Query	SELECT CURRENT_USER()
+		    39 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    39 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    40 Quit	
+		    39 Quit	
+240703  8:09:27	    41 Connect	MY_USERNAME@localhost on  using Socket
+		    41 Query	SELECT @@version, @@version_comment
+		    41 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    41 Query	SET lc_messages = 'en_US'
+		    42 Connect	MY_USERNAME@localhost on  using Socket
+		    42 Query	SHOW TABLES FROM `phpmyadmin`
+		    41 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    42 Query	SHOW TABLES FROM `phpmyadmin`
+		    42 Quit	
+		    41 Quit	
+240703  8:09:30	    43 Connect	MY_USERNAME@localhost on  using Socket
+		    43 Query	SELECT @@version, @@version_comment
+		    43 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    43 Query	SET lc_messages = 'en_US'
+		    44 Connect	MY_USERNAME@localhost on  using Socket
+		    44 Query	SHOW TABLES FROM `phpmyadmin`
+		    43 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    44 Query	SHOW TABLES FROM `phpmyadmin`
+		    44 Quit	
+		    43 Quit	
+		    45 Connect	MY_USERNAME@localhost on  using Socket
+		    45 Query	SELECT @@version, @@version_comment
+		    45 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    45 Query	SET lc_messages = 'en_US'
+		    46 Connect	MY_USERNAME@localhost on  using Socket
+		    46 Query	SHOW TABLES FROM `phpmyadmin`
+		    45 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    46 Query	SHOW TABLES FROM `phpmyadmin`
+		    46 Quit	
+		    45 Quit	
+240703  8:09:32	    47 Connect	MY_USERNAME@localhost on  using Socket
+		    47 Query	SELECT @@version, @@version_comment
+		    47 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    47 Query	SET lc_messages = 'en_US'
+		    48 Connect	MY_USERNAME@localhost on  using Socket
+		    48 Query	SHOW TABLES FROM `phpmyadmin`
+		    47 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    48 Query	SHOW TABLES FROM `phpmyadmin`
+		    48 Quit	
+		    47 Quit	
+240703  8:09:37	    49 Connect	MY_USERNAME@localhost on  using Socket
+		    49 Query	SELECT @@version, @@version_comment
+		    49 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    49 Query	SET lc_messages = 'en_US'
+		    50 Connect	MY_USERNAME@localhost on  using Socket
+		    50 Query	SHOW TABLES FROM `phpmyadmin`
+		    49 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    50 Query	SHOW TABLES FROM `phpmyadmin`
+		    50 Quit	
+		    49 Quit	
+240703  8:09:42	    51 Connect	MY_USERNAME@localhost on  using Socket
+		    51 Query	SELECT @@version, @@version_comment
+		    51 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    51 Query	SET lc_messages = 'en_US'
+		    52 Connect	MY_USERNAME@localhost on  using Socket
+		    52 Query	SHOW TABLES FROM `phpmyadmin`
+		    51 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    52 Query	SHOW TABLES FROM `phpmyadmin`
+		    52 Quit	
+		    51 Quit	
+240703  8:09:44	    53 Connect	MY_USERNAME@localhost on  using Socket
+		    53 Query	SELECT @@version, @@version_comment
+		    53 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    53 Query	SET lc_messages = 'en_US'
+		    54 Connect	MY_USERNAME@localhost on  using Socket
+		    54 Query	SHOW TABLES FROM `phpmyadmin`
+		    53 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    54 Query	SHOW TABLES FROM `phpmyadmin`
+		    54 Quit	
+		    53 Quit	
+240703  8:09:46	    55 Connect	MY_USERNAME@localhost on  using Socket
+		    55 Query	SELECT @@version, @@version_comment
+		    55 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    55 Query	SET lc_messages = 'en_US'
+		    56 Connect	MY_USERNAME@localhost on  using Socket
+		    56 Query	SHOW TABLES FROM `phpmyadmin`
+		    55 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    56 Query	SHOW TABLES FROM `phpmyadmin`
+		    55 Quit	
+		    56 Quit	
+240703  8:09:48	    57 Connect	MY_USERNAME@localhost on  using Socket
+		    57 Query	SELECT @@version, @@version_comment
+		    57 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    57 Query	SET lc_messages = 'en_US'
+		    58 Connect	MY_USERNAME@localhost on  using Socket
+		    58 Query	SHOW TABLES FROM `phpmyadmin`
+		    57 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    58 Query	SHOW TABLES FROM `phpmyadmin`
+		    58 Quit	
+		    57 Quit	
+240703  8:09:49	    59 Connect	MY_USERNAME@localhost on  using Socket
+		    59 Query	SELECT @@version, @@version_comment
+		    59 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    59 Query	SET lc_messages = 'en_US'
+		    60 Connect	MY_USERNAME@localhost on  using Socket
+		    60 Query	SHOW TABLES FROM `phpmyadmin`
+		    59 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    60 Query	SHOW TABLES FROM `phpmyadmin`
+		    60 Quit	
+		    59 Quit	
+240703  8:09:50	    61 Connect	MY_USERNAME@localhost on  using Socket
+		    61 Query	SELECT @@version, @@version_comment
+		    61 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    61 Query	SET lc_messages = 'en_US'
+		    62 Connect	MY_USERNAME@localhost on  using Socket
+		    62 Query	SHOW TABLES FROM `phpmyadmin`
+		    61 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    62 Query	SHOW TABLES FROM `phpmyadmin`
+		    62 Quit	
+		    61 Quit	
+240703  8:09:52	    63 Connect	MY_USERNAME@localhost on  using Socket
+		    63 Query	SELECT @@version, @@version_comment
+		    63 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    63 Query	SET lc_messages = 'en_US'
+		    64 Connect	MY_USERNAME@localhost on  using Socket
+		    64 Query	SHOW TABLES FROM `phpmyadmin`
+		    63 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    64 Query	SHOW TABLES FROM `phpmyadmin`
+		    64 Quit	
+		    63 Quit	
+240703  8:09:53	    65 Connect	MY_USERNAME@localhost on  using Socket
+		    65 Query	SELECT @@version, @@version_comment
+		    65 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    65 Query	SET lc_messages = 'en_US'
+		    66 Connect	MY_USERNAME@localhost on  using Socket
+		    66 Query	SHOW TABLES FROM `phpmyadmin`
+		    65 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    66 Query	SHOW TABLES FROM `phpmyadmin`
+		    66 Quit	
+		    65 Quit	
+240703  8:09:54	    67 Connect	MY_USERNAME@localhost on  using Socket
+		    67 Query	SELECT @@version, @@version_comment
+		    67 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    67 Query	SET lc_messages = 'en_US'
+		    68 Connect	MY_USERNAME@localhost on  using Socket
+		    68 Query	SHOW TABLES FROM `phpmyadmin`
+		    67 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    68 Query	SHOW TABLES FROM `phpmyadmin`
+		    68 Quit	
+		    67 Quit	
+240703  8:09:55	    69 Connect	MY_USERNAME@localhost on  using Socket
+		    69 Query	SELECT @@version, @@version_comment
+		    69 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    69 Query	SET lc_messages = 'en_US'
+		    70 Connect	MY_USERNAME@localhost on  using Socket
+		    70 Query	SHOW TABLES FROM `phpmyadmin`
+		    69 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    70 Query	SHOW TABLES FROM `phpmyadmin`
+		    70 Quit	
+		    69 Quit	
+240703  8:09:56	    71 Connect	MY_USERNAME@localhost on  using Socket
+		    71 Query	SELECT @@version, @@version_comment
+		    71 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    71 Query	SET lc_messages = 'en_US'
+		    72 Connect	MY_USERNAME@localhost on  using Socket
+		    72 Query	SHOW TABLES FROM `phpmyadmin`
+		    71 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    72 Query	SHOW TABLES FROM `phpmyadmin`
+		    72 Quit	
+		    71 Quit	
+240703  8:09:59	    73 Connect	MY_USERNAME@localhost on  using Socket
+		    73 Query	SELECT @@version, @@version_comment
+		    73 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    73 Query	SET lc_messages = 'en_US'
+		    74 Connect	MY_USERNAME@localhost on  using Socket
+		    74 Query	SHOW TABLES FROM `phpmyadmin`
+		    73 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    74 Query	SHOW TABLES FROM `phpmyadmin`
+		    74 Quit	
+		    73 Quit	
+240703  8:10:01	    75 Connect	MY_USERNAME@localhost on  using Socket
+		    75 Query	SELECT @@version, @@version_comment
+		    75 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    75 Query	SET lc_messages = 'en_US'
+		    76 Connect	MY_USERNAME@localhost on  using Socket
+		    76 Query	SHOW TABLES FROM `phpmyadmin`
+		    75 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    76 Query	SHOW TABLES FROM `phpmyadmin`
+		    76 Quit	
+		    75 Quit	
+240703  8:10:02	    77 Connect	MY_USERNAME@localhost on  using Socket
+		    77 Query	SELECT @@version, @@version_comment
+		    77 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    77 Query	SET lc_messages = 'en_US'
+		    78 Connect	MY_USERNAME@localhost on  using Socket
+		    78 Query	SHOW TABLES FROM `phpmyadmin`
+		    77 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    78 Query	SHOW TABLES FROM `phpmyadmin`
+		    78 Quit	
+		    77 Quit	
+240703  8:10:05	    79 Connect	MY_USERNAME@localhost on  using Socket
+		    79 Query	SELECT @@version, @@version_comment
+		    79 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    79 Query	SET lc_messages = 'en_US'
+		    80 Connect	MY_USERNAME@localhost on  using Socket
+		    80 Query	SHOW TABLES FROM `phpmyadmin`
+		    79 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    80 Query	SHOW TABLES FROM `phpmyadmin`
+		    80 Quit	
+		    79 Quit	
+240703  8:10:06	    81 Connect	MY_USERNAME@localhost on  using Socket
+		    81 Query	SELECT @@version, @@version_comment
+		    81 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    81 Query	SET lc_messages = 'en_US'
+		    82 Connect	MY_USERNAME@localhost on  using Socket
+		    82 Query	SHOW TABLES FROM `phpmyadmin`
+		    81 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    82 Query	SHOW TABLES FROM `phpmyadmin`
+		    82 Quit	
+		    81 Quit	
+240703  8:10:08	    83 Connect	MY_USERNAME@localhost on  using Socket
+		    83 Query	SELECT @@version, @@version_comment
+		    83 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    83 Query	SET lc_messages = 'en_US'
+		    84 Connect	MY_USERNAME@localhost on  using Socket
+		    84 Query	SHOW TABLES FROM `phpmyadmin`
+		    83 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    84 Query	SHOW TABLES FROM `phpmyadmin`
+		    83 Quit	
+		    84 Quit	
+240703  8:10:10	    85 Connect	MY_USERNAME@localhost on  using Socket
+		    85 Query	SELECT @@version, @@version_comment
+		    85 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    85 Query	SET lc_messages = 'en_US'
+		    86 Connect	MY_USERNAME@localhost on  using Socket
+		    86 Query	SHOW TABLES FROM `phpmyadmin`
+		    85 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    86 Query	SHOW TABLES FROM `phpmyadmin`
+		    86 Quit	
+		    85 Quit	
+240703  8:10:13	    87 Connect	MY_USERNAME@localhost on  using Socket
+		    87 Query	SELECT @@version, @@version_comment
+		    87 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    87 Query	SET lc_messages = 'en_US'
+		    88 Connect	MY_USERNAME@localhost on  using Socket
+		    88 Query	SHOW TABLES FROM `phpmyadmin`
+		    87 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    88 Query	SHOW TABLES FROM `phpmyadmin`
+		    87 Quit	
+		    88 Quit	
+240703  8:10:15	    89 Connect	MY_USERNAME@localhost on  using Socket
+		    89 Query	SELECT @@version, @@version_comment
+		    89 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    89 Query	SET lc_messages = 'en_US'
+		    90 Connect	MY_USERNAME@localhost on  using Socket
+		    90 Query	SHOW TABLES FROM `phpmyadmin`
+		    89 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    90 Query	SHOW TABLES FROM `phpmyadmin`
+		    90 Quit	
+		    89 Quit	
+240703  8:10:16	    91 Connect	MY_USERNAME@localhost on  using Socket
+		    91 Query	SELECT @@version, @@version_comment
+		    91 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    91 Query	SET lc_messages = 'en_US'
+		    92 Connect	MY_USERNAME@localhost on  using Socket
+		    92 Query	SHOW TABLES FROM `phpmyadmin`
+		    91 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    92 Query	SHOW TABLES FROM `phpmyadmin`
+		    91 Quit	
+		    92 Quit	
+240703  8:10:17	    93 Connect	MY_USERNAME@localhost on  using Socket
+		    93 Query	SELECT @@version, @@version_comment
+		    93 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    93 Query	SET lc_messages = 'en_US'
+		    94 Connect	MY_USERNAME@localhost on  using Socket
+		    94 Query	SHOW TABLES FROM `phpmyadmin`
+		    93 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    94 Query	SHOW TABLES FROM `phpmyadmin`
+		    93 Quit	
+		    94 Quit	
+240703  8:11:00	    95 Connect	MY_USERNAME@localhost on  using Socket
+		    95 Query	SELECT @@version, @@version_comment
+		    95 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    95 Query	SET lc_messages = 'en_US'
+		    96 Connect	MY_USERNAME@localhost on  using Socket
+		    96 Query	SHOW TABLES FROM `phpmyadmin`
+		    95 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    96 Query	SHOW TABLES FROM `phpmyadmin`
+		    95 Query	SELECT CURRENT_USER()
+		    95 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		    95 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		    95 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		    95 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    95 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		    95 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		    95 Query	CREATE TABLE class (
+    id INT NOT NULL AUTO_INCREMENT,
+    year INT NOT NULL,
+    grade INT NOT NULL,
+    name VARCHAR(64),
+    PRIMARY KEY (id)
+)
+		    96 Quit	
+		    95 Quit	
+240703  8:11:05	    97 Connect	MY_USERNAME@localhost on  using Socket
+		    97 Query	SELECT @@version, @@version_comment
+		    97 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    97 Query	SET lc_messages = 'en_US'
+		    98 Connect	MY_USERNAME@localhost on  using Socket
+		    98 Query	SHOW TABLES FROM `phpmyadmin`
+		    97 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    98 Query	SHOW TABLES FROM `phpmyadmin`
+		    97 Query	SELECT CURRENT_USER()
+		    97 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    97 Query	SHOW MASTER STATUS
+		    97 Query	SHOW SLAVE STATUS
+		    97 Query	SELECT *, CAST(BIN_NAME AS CHAR CHARACTER SET utf8) AS SCHEMA_NAME FROM (SELECT BINARY s.SCHEMA_NAME AS BIN_NAME, s.DEFAULT_COLLATION_NAME FROM `information_schema`.SCHEMATA s  GROUP BY BINARY s.SCHEMA_NAME, s.DEFAULT_COLLATION_NAME ORDER BY BINARY `SCHEMA_NAME` ASC) a
+		    97 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+		    97 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		    97 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		    97 Query	SELECT @@collation_server
+		    97 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    97 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    98 Quit	
+		    97 Quit	
+240703  8:11:18	    99 Connect	MY_USERNAME@localhost on  using Socket
+		    99 Query	SELECT @@version, @@version_comment
+		    99 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    99 Query	SET lc_messages = 'en_US'
+		   100 Connect	MY_USERNAME@localhost on  using Socket
+		   100 Query	SHOW TABLES FROM `phpmyadmin`
+		    99 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   100 Query	SHOW TABLES FROM `phpmyadmin`
+		    99 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    99 Query	SELECT CURRENT_USER()
+		    99 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		    99 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		    99 Query	SHOW SESSION VARIABLES LIKE 'character_set_server'
+		    99 Query	SELECT USER()
+		    99 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    99 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   100 Quit	
+		    99 Quit	
+240703  8:11:19	   101 Connect	MY_USERNAME@localhost on  using Socket
+		   101 Query	SELECT @@version, @@version_comment
+		   101 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   101 Query	SET lc_messages = 'en_US'
+		   102 Connect	MY_USERNAME@localhost on  using Socket
+		   102 Query	SHOW TABLES FROM `phpmyadmin`
+		   101 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   102 Query	SHOW TABLES FROM `phpmyadmin`
+		   102 Quit	
+		   101 Quit	
+240703  8:11:48	   103 Connect	MY_USERNAME@localhost on  using Socket
+		   103 Query	SELECT @@version, @@version_comment
+		   103 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   103 Query	SET lc_messages = 'en_US'
+		   104 Connect	MY_USERNAME@localhost on  using Socket
+		   104 Query	SHOW TABLES FROM `phpmyadmin`
+		   103 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   104 Query	SHOW TABLES FROM `phpmyadmin`
+		   103 Query	SELECT CURRENT_USER()
+		   103 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   103 Query	SHOW MASTER STATUS
+		   103 Query	SHOW SLAVE STATUS
+		   103 Query	SELECT *, CAST(BIN_NAME AS CHAR CHARACTER SET utf8) AS SCHEMA_NAME FROM (SELECT BINARY s.SCHEMA_NAME AS BIN_NAME, s.DEFAULT_COLLATION_NAME FROM `information_schema`.SCHEMATA s  GROUP BY BINARY s.SCHEMA_NAME, s.DEFAULT_COLLATION_NAME ORDER BY BINARY `SCHEMA_NAME` ASC) a
+		   103 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+		   103 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		   103 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		   103 Query	SELECT @@collation_server
+		   103 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   103 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   104 Quit	
+		   103 Quit	
+240703  8:12:20	   105 Connect	MY_USERNAME@localhost on  using Socket
+		   105 Query	SELECT @@version, @@version_comment
+		   105 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   105 Query	SET lc_messages = 'en_US'
+		   106 Connect	MY_USERNAME@localhost on  using Socket
+		   106 Query	SHOW TABLES FROM `phpmyadmin`
+		   105 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   106 Query	SHOW TABLES FROM `phpmyadmin`
+		   105 Query	SELECT @@lower_case_table_names
+		   105 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		   105 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		   105 Query	CREATE DATABASE `lesson_6` DEFAULT CHARSET=utf8mb4 COLLATE utf8mb4_unicode_ci
+		   105 Quit	
+		   106 Quit	
+240703  8:12:37	   107 Connect	MY_USERNAME@localhost on  using Socket
+		   107 Query	SELECT @@version, @@version_comment
+		   107 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   107 Query	SET lc_messages = 'en_US'
+		   108 Connect	MY_USERNAME@localhost on  using Socket
+		   108 Query	SHOW TABLES FROM `phpmyadmin`
+		   107 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   108 Query	SHOW TABLES FROM `phpmyadmin`
+		   107 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   107 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   107 Query	SELECT CURRENT_USER()
+		   107 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   107 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   108 Quit	
+		   107 Quit	
+240703  8:12:38	   109 Connect	MY_USERNAME@localhost on  using Socket
+		   109 Query	SELECT @@version, @@version_comment
+		   109 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   109 Query	SET lc_messages = 'en_US'
+		   110 Connect	MY_USERNAME@localhost on  using Socket
+		   110 Query	SHOW TABLES FROM `phpmyadmin`
+		   109 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   110 Query	SHOW TABLES FROM `phpmyadmin`
+		   109 Query	SHOW MASTER STATUS
+		   109 Query	SHOW SLAVE STATUS
+		   109 Query	SHOW GLOBAL STATUS
+		   109 Query	SHOW GLOBAL VARIABLES
+		   109 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   109 Query	SELECT UNIX_TIMESTAMP() - 860
+		   109 Query	SELECT CURRENT_USER()
+		   109 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   109 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   110 Quit	
+		   109 Quit	
+240703  8:12:40	   111 Connect	MY_USERNAME@localhost on  using Socket
+		   111 Query	SELECT @@version, @@version_comment
+		   111 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   111 Query	SET lc_messages = 'en_US'
+		   112 Connect	MY_USERNAME@localhost on  using Socket
+		   112 Query	SHOW TABLES FROM `phpmyadmin`
+		   111 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   112 Query	SHOW TABLES FROM `phpmyadmin`
+		   111 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   111 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   111 Query	SELECT CURRENT_USER()
+		   111 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   111 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   112 Quit	
+		   111 Quit	
+240703  8:12:42	   113 Connect	MY_USERNAME@localhost on  using Socket
+		   113 Query	SELECT @@version, @@version_comment
+		   113 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   113 Query	SET lc_messages = 'en_US'
+		   114 Connect	MY_USERNAME@localhost on  using Socket
+		   114 Query	SHOW TABLES FROM `phpmyadmin`
+		   113 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   114 Query	SHOW TABLES FROM `phpmyadmin`
+		   113 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   113 Query	SELECT CURRENT_USER()
+		   113 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`
+		   113 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   113 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   113 Quit	
+		   114 Quit	
+240703  8:12:44	   115 Connect	MY_USERNAME@localhost on  using Socket
+		   115 Query	SELECT @@version, @@version_comment
+		   115 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   115 Query	SET lc_messages = 'en_US'
+		   116 Connect	MY_USERNAME@localhost on  using Socket
+		   116 Query	SHOW TABLES FROM `phpmyadmin`
+		   115 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   116 Query	SHOW TABLES FROM `phpmyadmin`
+		   115 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   115 Query	SELECT CURRENT_USER()
+		   115 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		   115 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+240703  8:12:45	   115 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   115 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   116 Quit	
+		   115 Quit	
+		   117 Connect	MY_USERNAME@localhost on  using Socket
+		   117 Query	SELECT @@version, @@version_comment
+		   117 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   117 Query	SET lc_messages = 'en_US'
+		   118 Connect	MY_USERNAME@localhost on  using Socket
+		   118 Query	SHOW TABLES FROM `phpmyadmin`
+		   117 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   118 Query	SHOW TABLES FROM `phpmyadmin`
+		   117 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   117 Query	SELECT CURRENT_USER()
+		   117 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   117 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   118 Quit	
+		   117 Quit	
+240703  8:12:48	   119 Connect	MY_USERNAME@localhost on  using Socket
+		   119 Query	SELECT @@version, @@version_comment
+		   119 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   119 Query	SET lc_messages = 'en_US'
+		   120 Connect	MY_USERNAME@localhost on  using Socket
+		   120 Query	SHOW TABLES FROM `phpmyadmin`
+		   119 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   120 Query	SHOW TABLES FROM `phpmyadmin`
+		   119 Query	SELECT CURRENT_USER()
+		   119 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		   119 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA`='my_database_name' AND `TABLE_TYPE` IN('BASE TABLE', 'SYSTEM VERSIONED')
+		   119 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA`='my_database_name' AND `TABLE_TYPE` NOT IN('BASE TABLE', 'SYSTEM VERSIONED')
+		   119 Query	SELECT @@lower_case_table_names
+		   119 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`ROUTINES` WHERE `ROUTINE_SCHEMA` ='my_database_name' AND `ROUTINE_TYPE`='FUNCTION'
+		   119 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`ROUTINES` WHERE `ROUTINE_SCHEMA` ='my_database_name'AND `ROUTINE_TYPE`='PROCEDURE'
+		   119 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`EVENTS` WHERE `EVENT_SCHEMA` ='my_database_name'
+		   119 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   119 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   119 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   120 Quit	
+		   119 Quit	
+240703  8:12:49	   121 Connect	MY_USERNAME@localhost on  using Socket
+		   121 Query	SELECT @@version, @@version_comment
+		   121 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   121 Query	SET lc_messages = 'en_US'
+		   122 Connect	MY_USERNAME@localhost on  using Socket
+		   122 Query	SHOW TABLES FROM `phpmyadmin`
+		   122 Query	SHOW TABLES FROM `my_database_name`
+		   121 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   122 Query	SHOW TABLES FROM `phpmyadmin`
+		   122 Query	SHOW TABLES FROM `my_database_name`
+		   121 Init DB	my_database_name
+		   121 Query	SHOW TABLES FROM `my_database_name`
+		   121 Query	SELECT @@lower_case_table_names
+		   121 Query	SELECT *, `TABLE_SCHEMA`       AS `Db`, `TABLE_NAME`         AS `Name`, `TABLE_TYPE`         AS `TABLE_TYPE`, `ENGINE`             AS `Engine`, `ENGINE`             AS `Type`, `VERSION`            AS `Version`, `ROW_FORMAT`         AS `Row_format`, `TABLE_ROWS`         AS `Rows`, `AVG_ROW_LENGTH`     AS `Avg_row_length`, `DATA_LENGTH`        AS `Data_length`, `MAX_DATA_LENGTH`    AS `Max_data_length`, `INDEX_LENGTH`       AS `Index_length`, `DATA_FREE`          AS `Data_free`, `AUTO_INCREMENT`     AS `Auto_increment`, `CREATE_TIME`        AS `Create_time`, `UPDATE_TIME`        AS `Update_time`, `CHECK_TIME`         AS `Check_time`, `TABLE_COLLATION`    AS `Collation`, `CHECKSUM`           AS `Checksum`, `CREATE_OPTIONS`     AS `Create_options`, `TABLE_COMMENT`      AS `Comment` FROM `information_schema`.`TABLES` t WHERE `TABLE_SCHEMA`  IN ('my_database_name')  ORDER BY Name ASC LIMIT 250 OFFSET 0
+		   121 Query	SHOW TABLE STATUS FROM `my_database_name`
+		   121 Query	SHOW MASTER STATUS
+		   121 Query	SHOW SLAVE STATUS
+		   121 Query	SELECT CURRENT_USER()
+		   121 Query	SHOW TABLES FROM `my_database_name`
+		   121 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   121 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   121 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   121 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   121 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   121 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   121 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   122 Quit	
+		   121 Quit	
+		   123 Connect	MY_USERNAME@localhost on  using Socket
+		   123 Query	SELECT @@version, @@version_comment
+		   123 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   123 Query	SET lc_messages = 'en_US'
+		   124 Connect	MY_USERNAME@localhost on  using Socket
+		   124 Query	SHOW TABLES FROM `phpmyadmin`
+		   123 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   124 Query	SHOW TABLES FROM `phpmyadmin`
+		   123 Query	SELECT CURRENT_USER()
+		   123 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   123 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   123 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   124 Quit	
+		   123 Quit	
+240703  8:12:53	   125 Connect	MY_USERNAME@localhost on  using Socket
+		   125 Query	SELECT @@version, @@version_comment
+		   125 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   125 Query	SET lc_messages = 'en_US'
+		   126 Connect	MY_USERNAME@localhost on  using Socket
+		   126 Query	SHOW TABLES FROM `phpmyadmin`
+		   126 Query	SHOW TABLES FROM `my_database_name`
+		   125 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   126 Query	SHOW TABLES FROM `phpmyadmin`
+		   126 Query	SHOW TABLES FROM `my_database_name`
+		   125 Init DB	my_database_name
+		   125 Query	SHOW TABLES FROM `my_database_name`
+		   125 Query	SELECT @@lower_case_table_names
+		   125 Query	SELECT *, `TABLE_SCHEMA`       AS `Db`, `TABLE_NAME`         AS `Name`, `TABLE_TYPE`         AS `TABLE_TYPE`, `ENGINE`             AS `Engine`, `ENGINE`             AS `Type`, `VERSION`            AS `Version`, `ROW_FORMAT`         AS `Row_format`, `TABLE_ROWS`         AS `Rows`, `AVG_ROW_LENGTH`     AS `Avg_row_length`, `DATA_LENGTH`        AS `Data_length`, `MAX_DATA_LENGTH`    AS `Max_data_length`, `INDEX_LENGTH`       AS `Index_length`, `DATA_FREE`          AS `Data_free`, `AUTO_INCREMENT`     AS `Auto_increment`, `CREATE_TIME`        AS `Create_time`, `UPDATE_TIME`        AS `Update_time`, `CHECK_TIME`         AS `Check_time`, `TABLE_COLLATION`    AS `Collation`, `CHECKSUM`           AS `Checksum`, `CREATE_OPTIONS`     AS `Create_options`, `TABLE_COMMENT`      AS `Comment` FROM `information_schema`.`TABLES` t WHERE `TABLE_SCHEMA`  IN ('my_database_name')  ORDER BY Name ASC LIMIT 250 OFFSET 0
+		   125 Query	SHOW TABLE STATUS FROM `my_database_name`
+		   125 Query	SHOW MASTER STATUS
+		   125 Query	SHOW SLAVE STATUS
+		   125 Query	SELECT CURRENT_USER()
+		   125 Query	SHOW TABLES FROM `my_database_name`
+		   125 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   125 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   125 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   125 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   125 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   125 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   125 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   126 Quit	
+		   125 Quit	
+240703  8:12:57	   127 Connect	MY_USERNAME@localhost on  using Socket
+		   127 Query	SELECT @@version, @@version_comment
+		   127 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   127 Query	SET lc_messages = 'en_US'
+		   128 Connect	MY_USERNAME@localhost on  using Socket
+		   128 Query	SHOW TABLES FROM `phpmyadmin`
+		   128 Query	SHOW TABLES FROM `my_database_name`
+		   127 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   128 Query	SHOW TABLES FROM `phpmyadmin`
+		   128 Query	SHOW TABLES FROM `my_database_name`
+		   127 Init DB	my_database_name
+		   127 Query	SHOW TABLES FROM `my_database_name`
+		   127 Query	SELECT @@lower_case_table_names
+		   127 Query	SELECT *, `TABLE_SCHEMA`       AS `Db`, `TABLE_NAME`         AS `Name`, `TABLE_TYPE`         AS `TABLE_TYPE`, `ENGINE`             AS `Engine`, `ENGINE`             AS `Type`, `VERSION`            AS `Version`, `ROW_FORMAT`         AS `Row_format`, `TABLE_ROWS`         AS `Rows`, `AVG_ROW_LENGTH`     AS `Avg_row_length`, `DATA_LENGTH`        AS `Data_length`, `MAX_DATA_LENGTH`    AS `Max_data_length`, `INDEX_LENGTH`       AS `Index_length`, `DATA_FREE`          AS `Data_free`, `AUTO_INCREMENT`     AS `Auto_increment`, `CREATE_TIME`        AS `Create_time`, `UPDATE_TIME`        AS `Update_time`, `CHECK_TIME`         AS `Check_time`, `TABLE_COLLATION`    AS `Collation`, `CHECKSUM`           AS `Checksum`, `CREATE_OPTIONS`     AS `Create_options`, `TABLE_COMMENT`      AS `Comment` FROM `information_schema`.`TABLES` t WHERE `TABLE_SCHEMA`  IN ('my_database_name')  ORDER BY Name ASC LIMIT 250 OFFSET 0
+		   127 Query	SHOW TABLE STATUS FROM `my_database_name`
+		   127 Query	SHOW MASTER STATUS
+		   127 Query	SHOW SLAVE STATUS
+		   127 Query	SELECT CURRENT_USER()
+		   127 Query	SHOW TABLES FROM `my_database_name`
+		   127 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   127 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   127 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   127 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   127 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   127 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   127 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+240703  8:12:58	   128 Quit	
+		   127 Quit	
+240703  8:13:03	   129 Connect	MY_USERNAME@localhost on  using Socket
+		   129 Query	SELECT @@version, @@version_comment
+		   129 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   129 Query	SET lc_messages = 'en_US'
+		   130 Connect	MY_USERNAME@localhost on  using Socket
+		   130 Query	SHOW TABLES FROM `phpmyadmin`
+		   130 Query	SHOW TABLES FROM `my_database_name`
+		   129 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   130 Query	SHOW TABLES FROM `phpmyadmin`
+		   130 Query	SHOW TABLES FROM `my_database_name`
+		   129 Init DB	my_database_name
+		   129 Query	SHOW TABLES FROM `my_database_name`
+		   129 Query	SELECT @@lower_case_table_names
+		   129 Query	SELECT *, `TABLE_SCHEMA`       AS `Db`, `TABLE_NAME`         AS `Name`, `TABLE_TYPE`         AS `TABLE_TYPE`, `ENGINE`             AS `Engine`, `ENGINE`             AS `Type`, `VERSION`            AS `Version`, `ROW_FORMAT`         AS `Row_format`, `TABLE_ROWS`         AS `Rows`, `AVG_ROW_LENGTH`     AS `Avg_row_length`, `DATA_LENGTH`        AS `Data_length`, `MAX_DATA_LENGTH`    AS `Max_data_length`, `INDEX_LENGTH`       AS `Index_length`, `DATA_FREE`          AS `Data_free`, `AUTO_INCREMENT`     AS `Auto_increment`, `CREATE_TIME`        AS `Create_time`, `UPDATE_TIME`        AS `Update_time`, `CHECK_TIME`         AS `Check_time`, `TABLE_COLLATION`    AS `Collation`, `CHECKSUM`           AS `Checksum`, `CREATE_OPTIONS`     AS `Create_options`, `TABLE_COMMENT`      AS `Comment` FROM `information_schema`.`TABLES` t WHERE `TABLE_SCHEMA`  IN ('my_database_name')  ORDER BY Name ASC LIMIT 250 OFFSET 0
+		   129 Query	SHOW TABLE STATUS FROM `my_database_name`
+		   129 Query	SHOW MASTER STATUS
+		   129 Query	SHOW SLAVE STATUS
+		   129 Query	SELECT CURRENT_USER()
+		   129 Query	SHOW TABLES FROM `my_database_name`
+		   129 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   129 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   129 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   129 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   129 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   129 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   129 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   130 Quit	
+		   129 Quit	
+		   131 Connect	MY_USERNAME@localhost on  using Socket
+		   131 Query	SELECT @@version, @@version_comment
+		   131 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   131 Query	SET lc_messages = 'en_US'
+		   132 Connect	MY_USERNAME@localhost on  using Socket
+		   132 Query	SHOW TABLES FROM `phpmyadmin`
+		   132 Query	SHOW TABLES FROM `my_database_name`
+		   131 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   132 Query	SHOW TABLES FROM `phpmyadmin`
+		   132 Query	SHOW TABLES FROM `my_database_name`
+		   131 Init DB	my_database_name
+		   131 Query	SHOW TABLES FROM `my_database_name`
+		   131 Query	SELECT @@lower_case_table_names
+		   131 Query	SELECT *, `TABLE_SCHEMA`       AS `Db`, `TABLE_NAME`         AS `Name`, `TABLE_TYPE`         AS `TABLE_TYPE`, `ENGINE`             AS `Engine`, `ENGINE`             AS `Type`, `VERSION`            AS `Version`, `ROW_FORMAT`         AS `Row_format`, `TABLE_ROWS`         AS `Rows`, `AVG_ROW_LENGTH`     AS `Avg_row_length`, `DATA_LENGTH`        AS `Data_length`, `MAX_DATA_LENGTH`    AS `Max_data_length`, `INDEX_LENGTH`       AS `Index_length`, `DATA_FREE`          AS `Data_free`, `AUTO_INCREMENT`     AS `Auto_increment`, `CREATE_TIME`        AS `Create_time`, `UPDATE_TIME`        AS `Update_time`, `CHECK_TIME`         AS `Check_time`, `TABLE_COLLATION`    AS `Collation`, `CHECKSUM`           AS `Checksum`, `CREATE_OPTIONS`     AS `Create_options`, `TABLE_COMMENT`      AS `Comment` FROM `information_schema`.`TABLES` t WHERE `TABLE_SCHEMA`  IN ('my_database_name')  ORDER BY Name ASC LIMIT 250 OFFSET 0
+		   131 Query	SHOW TABLE STATUS FROM `my_database_name`
+		   131 Query	SHOW MASTER STATUS
+		   131 Query	SHOW SLAVE STATUS
+		   131 Query	SELECT CURRENT_USER()
+		   131 Query	SHOW TABLES FROM `my_database_name`
+		   131 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   131 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   131 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   131 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   131 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   131 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   131 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   132 Quit	
+		   131 Quit	
+240703  8:13:05	   133 Connect	MY_USERNAME@localhost on  using Socket
+		   133 Query	SELECT @@version, @@version_comment
+		   133 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   133 Query	SET lc_messages = 'en_US'
+		   134 Connect	MY_USERNAME@localhost on  using Socket
+		   134 Query	SHOW TABLES FROM `phpmyadmin`
+		   134 Query	SHOW TABLES FROM `my_database_name`
+		   133 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   134 Query	SHOW TABLES FROM `phpmyadmin`
+		   134 Query	SHOW TABLES FROM `my_database_name`
+		   133 Init DB	my_database_name
+		   133 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   133 Query	SHOW TABLES FROM `my_database_name`
+		   133 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   133 Query	SELECT CURRENT_USER()
+		   133 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   133 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   133 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   133 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   133 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   133 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   134 Quit	
+		   133 Quit	
+240703  8:13:06	   135 Connect	MY_USERNAME@localhost on  using Socket
+		   135 Query	SELECT @@version, @@version_comment
+		   135 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   135 Query	SET lc_messages = 'en_US'
+		   136 Connect	MY_USERNAME@localhost on  using Socket
+		   136 Query	SHOW TABLES FROM `phpmyadmin`
+		   136 Query	SHOW TABLES FROM `my_database_name`
+		   135 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   136 Query	SHOW TABLES FROM `phpmyadmin`
+		   136 Query	SHOW TABLES FROM `my_database_name`
+		   135 Init DB	my_database_name
+		   135 Query	SHOW TABLES FROM `my_database_name`
+		   135 Query	SHOW TABLES FROM `my_database_name`
+		   135 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   135 Query	SELECT CURRENT_USER()
+		   135 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   135 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   135 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   135 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   135 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   135 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   136 Quit	
+		   135 Quit	
+240703  8:13:07	   137 Connect	MY_USERNAME@localhost on  using Socket
+		   137 Query	SELECT @@version, @@version_comment
+		   137 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   137 Query	SET lc_messages = 'en_US'
+		   138 Connect	MY_USERNAME@localhost on  using Socket
+		   138 Query	SHOW TABLES FROM `phpmyadmin`
+		   138 Query	SHOW TABLES FROM `my_database_name`
+		   137 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   138 Query	SHOW TABLES FROM `phpmyadmin`
+		   138 Query	SHOW TABLES FROM `my_database_name`
+		   137 Query	SHOW TABLES FROM `my_database_name`
+		   137 Query	SHOW TABLES FROM `my_database_name`
+		   137 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   137 Query	SELECT CURRENT_USER()
+		   137 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   137 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   137 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   137 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   137 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   137 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   137 Quit	
+		   138 Quit	
+240703  8:13:08	   139 Connect	MY_USERNAME@localhost on  using Socket
+		   139 Query	SELECT @@version, @@version_comment
+		   139 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   139 Query	SET lc_messages = 'en_US'
+		   140 Connect	MY_USERNAME@localhost on  using Socket
+		   140 Query	SHOW TABLES FROM `phpmyadmin`
+		   140 Query	SHOW TABLES FROM `my_database_name`
+		   139 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   140 Query	SHOW TABLES FROM `phpmyadmin`
+		   140 Query	SHOW TABLES FROM `my_database_name`
+		   139 Init DB	my_database_name
+		   139 Query	SHOW TABLES FROM `my_database_name`
+		   139 Query	SELECT @@lower_case_table_names
+		   139 Query	SELECT *, `TABLE_SCHEMA`       AS `Db`, `TABLE_NAME`         AS `Name`, `TABLE_TYPE`         AS `TABLE_TYPE`, `ENGINE`             AS `Engine`, `ENGINE`             AS `Type`, `VERSION`            AS `Version`, `ROW_FORMAT`         AS `Row_format`, `TABLE_ROWS`         AS `Rows`, `AVG_ROW_LENGTH`     AS `Avg_row_length`, `DATA_LENGTH`        AS `Data_length`, `MAX_DATA_LENGTH`    AS `Max_data_length`, `INDEX_LENGTH`       AS `Index_length`, `DATA_FREE`          AS `Data_free`, `AUTO_INCREMENT`     AS `Auto_increment`, `CREATE_TIME`        AS `Create_time`, `UPDATE_TIME`        AS `Update_time`, `CHECK_TIME`         AS `Check_time`, `TABLE_COLLATION`    AS `Collation`, `CHECKSUM`           AS `Checksum`, `CREATE_OPTIONS`     AS `Create_options`, `TABLE_COMMENT`      AS `Comment` FROM `information_schema`.`TABLES` t WHERE `TABLE_SCHEMA`  IN ('my_database_name')  ORDER BY Name ASC
+		   139 Query	SHOW TABLE STATUS FROM `my_database_name`
+		   139 Query	SHOW TABLES FROM `my_database_name`
+		   139 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   139 Query	SELECT CURRENT_USER()
+		   139 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   139 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   139 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   139 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   139 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   139 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   140 Quit	
+		   139 Quit	
+240703  8:13:09	   141 Connect	MY_USERNAME@localhost on  using Socket
+		   141 Query	SELECT @@version, @@version_comment
+		   141 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   141 Query	SET lc_messages = 'en_US'
+		   142 Connect	MY_USERNAME@localhost on  using Socket
+		   142 Query	SHOW TABLES FROM `phpmyadmin`
+		   142 Query	SHOW TABLES FROM `my_database_name`
+		   141 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   142 Query	SHOW TABLES FROM `phpmyadmin`
+		   142 Query	SHOW TABLES FROM `my_database_name`
+		   141 Init DB	my_database_name
+		   141 Query	SHOW TABLES FROM `my_database_name`
+		   141 Query	SELECT @@lower_case_table_names
+		   141 Query	SELECT *, `TABLE_SCHEMA`       AS `Db`, `TABLE_NAME`         AS `Name`, `TABLE_TYPE`         AS `TABLE_TYPE`, `ENGINE`             AS `Engine`, `ENGINE`             AS `Type`, `VERSION`            AS `Version`, `ROW_FORMAT`         AS `Row_format`, `TABLE_ROWS`         AS `Rows`, `AVG_ROW_LENGTH`     AS `Avg_row_length`, `DATA_LENGTH`        AS `Data_length`, `MAX_DATA_LENGTH`    AS `Max_data_length`, `INDEX_LENGTH`       AS `Index_length`, `DATA_FREE`          AS `Data_free`, `AUTO_INCREMENT`     AS `Auto_increment`, `CREATE_TIME`        AS `Create_time`, `UPDATE_TIME`        AS `Update_time`, `CHECK_TIME`         AS `Check_time`, `TABLE_COLLATION`    AS `Collation`, `CHECKSUM`           AS `Checksum`, `CREATE_OPTIONS`     AS `Create_options`, `TABLE_COMMENT`      AS `Comment` FROM `information_schema`.`TABLES` t WHERE `TABLE_SCHEMA`  IN ('my_database_name')  ORDER BY Name ASC LIMIT 250 OFFSET 0
+		   141 Query	SHOW TABLE STATUS FROM `my_database_name`
+		   141 Query	SELECT CURRENT_USER()
+		   141 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		   141 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   141 Query	SHOW TABLES FROM `my_database_name`
+		   141 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   141 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   141 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   141 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   141 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   141 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   141 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   142 Quit	
+		   141 Quit	
+240703  8:13:12	   143 Connect	MY_USERNAME@localhost on  using Socket
+		   143 Query	SELECT @@version, @@version_comment
+		   143 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   143 Query	SET lc_messages = 'en_US'
+		   144 Connect	MY_USERNAME@localhost on  using Socket
+		   144 Query	SHOW TABLES FROM `phpmyadmin`
+		   144 Query	SHOW TABLES FROM `my_database_name`
+		   143 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   144 Query	SHOW TABLES FROM `phpmyadmin`
+		   144 Query	SHOW TABLES FROM `my_database_name`
+		   143 Query	SELECT CURRENT_USER()
+		   143 Init DB	my_database_name
+		   143 Query	SHOW TABLES FROM `my_database_name`
+		   143 Query	SELECT @@lower_case_table_names
+		   143 Query	SELECT *, `TABLE_SCHEMA`       AS `Db`, `TABLE_NAME`         AS `Name`, `TABLE_TYPE`         AS `TABLE_TYPE`, `ENGINE`             AS `Engine`, `ENGINE`             AS `Type`, `VERSION`            AS `Version`, `ROW_FORMAT`         AS `Row_format`, `TABLE_ROWS`         AS `Rows`, `AVG_ROW_LENGTH`     AS `Avg_row_length`, `DATA_LENGTH`        AS `Data_length`, `MAX_DATA_LENGTH`    AS `Max_data_length`, `INDEX_LENGTH`       AS `Index_length`, `DATA_FREE`          AS `Data_free`, `AUTO_INCREMENT`     AS `Auto_increment`, `CREATE_TIME`        AS `Create_time`, `UPDATE_TIME`        AS `Update_time`, `CHECK_TIME`         AS `Check_time`, `TABLE_COLLATION`    AS `Collation`, `CHECKSUM`           AS `Checksum`, `CREATE_OPTIONS`     AS `Create_options`, `TABLE_COMMENT`      AS `Comment` FROM `information_schema`.`TABLES` t WHERE `TABLE_SCHEMA`  IN ('my_database_name')  ORDER BY Name ASC LIMIT 250 OFFSET 0
+		   143 Query	SHOW TABLE STATUS FROM `my_database_name`
+		   143 Query	SELECT DEFAULT_COLLATION_NAME FROM information_schema.SCHEMATA WHERE SCHEMA_NAME = 'my_database_name' LIMIT 1
+		   143 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   143 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		   143 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		   143 Query	SHOW TABLES FROM `my_database_name`
+		   143 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   143 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   143 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT'
+		   143 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='EVENT' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   143 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER'
+		   143 Query	SELECT `PRIVILEGE_TYPE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` WHERE GRANTEE='''MY_USERNAME''@''localhost''' AND PRIVILEGE_TYPE='TRIGGER' AND 'my_database_name' LIKE `TABLE_SCHEMA`
+		   144 Quit	
+		   143 Quit	
+240703  8:13:25	   145 Connect	MY_USERNAME@localhost on  using Socket
+		   145 Query	SELECT @@version, @@version_comment
+		   145 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   145 Query	SET lc_messages = 'en_US'
+		   146 Connect	MY_USERNAME@localhost on  using Socket
+		   146 Query	SHOW TABLES FROM `phpmyadmin`
+		   146 Query	SHOW TABLES FROM `my_database_name`
+		   145 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   146 Query	SHOW TABLES FROM `phpmyadmin`
+		   146 Query	SHOW TABLES FROM `my_database_name`
+		   145 Query	SELECT CURRENT_USER()
+		   145 Query	SELECT @@lower_case_table_names
+		   145 Query	CREATE DATABASE IF NOT EXISTS `lesson_6` DEFAULT CHARSET=utf8mb4 COLLATE utf8mb4_unicode_ci
+		   146 Quit	
+		   145 Quit	
+240703  8:13:47	   147 Connect	MY_USERNAME@localhost on  using Socket
+		   147 Query	SELECT @@version, @@version_comment
+		   147 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   147 Query	SET lc_messages = 'en_US'
+		   148 Connect	MY_USERNAME@localhost on  using Socket
+		   148 Query	SHOW TABLES FROM `phpmyadmin`
+		   147 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   148 Query	SHOW TABLES FROM `phpmyadmin`
+		   147 Query	SELECT CURRENT_USER()
+		   147 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		   147 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA`='information_schema' AND `TABLE_TYPE` IN('BASE TABLE', 'SYSTEM VERSIONED')
+		   147 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA`='information_schema' AND `TABLE_TYPE` NOT IN('BASE TABLE', 'SYSTEM VERSIONED')
+		   147 Query	SELECT @@lower_case_table_names
+		   147 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`ROUTINES` WHERE `ROUTINE_SCHEMA` ='information_schema' AND `ROUTINE_TYPE`='FUNCTION'
+		   147 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`ROUTINES` WHERE `ROUTINE_SCHEMA` ='information_schema'AND `ROUTINE_TYPE`='PROCEDURE'
+		   147 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`EVENTS` WHERE `EVENT_SCHEMA` ='information_schema'
+		   147 Query	SELECT `TABLE_NAME` AS `name` FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA`='information_schema' AND `TABLE_TYPE` NOT IN('BASE TABLE', 'SYSTEM VERSIONED') ORDER BY `TABLE_NAME` ASC LIMIT 0, 50
+		   147 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA`='information_schema' AND `TABLE_TYPE` NOT IN('BASE TABLE', 'SYSTEM VERSIONED')
+		   147 Query	SELECT COUNT(*) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_SCHEMA`='information_schema' AND `TABLE_TYPE` NOT IN('BASE TABLE', 'SYSTEM VERSIONED')
+		   147 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   147 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   147 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   148 Quit	
+		   147 Quit	
+240703  8:13:52	   149 Connect	MY_USERNAME@localhost on  using Socket
+		   149 Query	SELECT @@version, @@version_comment
+		   149 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   149 Query	SET lc_messages = 'en_US'
+		   150 Connect	MY_USERNAME@localhost on  using Socket
+		   150 Query	SHOW TABLES FROM `phpmyadmin`
+		   149 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   150 Query	SHOW TABLES FROM `phpmyadmin`
+		   149 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   149 Query	SELECT CURRENT_USER()
+		   149 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   149 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   150 Quit	
+		   149 Quit	
+240703  8:14:10	   151 Connect	MY_USERNAME@localhost on  using Socket
+		   151 Query	SELECT @@version, @@version_comment
+		   151 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   151 Query	SET lc_messages = 'en_US'
+		   152 Connect	MY_USERNAME@localhost on  using Socket
+		   152 Query	SHOW TABLES FROM `phpmyadmin`
+		   152 Query	SHOW TABLES FROM `information_schema`
+		   151 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   152 Query	SHOW TABLES FROM `phpmyadmin`
+		   152 Query	SHOW TABLES FROM `information_schema`
+		   151 Query	SELECT CURRENT_USER()
+		   151 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   151 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   151 Query	SELECT DATABASE()
+		   151 Init DB	information_schema
+		   151 Query	SELECT * FROM `ENABLED_ROLES` LIMIT 0, 25
+		   151 Query	SHOW WARNINGS
+		   151 Query	SELECT @@lower_case_table_names
+		   151 Query	SELECT TABLE_NAME FROM information_schema.VIEWS WHERE TABLE_SCHEMA = 'information_schema' AND TABLE_NAME = 'ENABLED_ROLES' AND IS_UPDATABLE = 'YES'
+		   151 Query	SHOW  COLUMNS FROM `information_schema`.`ENABLED_ROLES`
+		   151 Query	SHOW INDEXES FROM `information_schema`.`ENABLED_ROLES`
+		   151 Query	SHOW INDEXES FROM `information_schema`.`ENABLED_ROLES`
+		   151 Query	SELECT @@have_profiling
+		   151 Query	SHOW INDEXES FROM `information_schema`.`ENABLED_ROLES`
+		   151 Query	SHOW CREATE TABLE `information_schema`.`ENABLED_ROLES`
+		   151 Query	SHOW FULL COLUMNS FROM `information_schema`.`ENABLED_ROLES`
+		   151 Query	SHOW INDEXES FROM `information_schema`.`ENABLED_ROLES`
+		   151 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   151 Query	SHOW  COLUMNS FROM `information_schema`.`ENABLED_ROLES`
+		   151 Query	SHOW INDEXES FROM `information_schema`.`ENABLED_ROLES`
+		   151 Query	SELECT TABLE_NAME FROM information_schema.VIEWS WHERE TABLE_SCHEMA = 'information_schema' AND TABLE_NAME = 'ENABLED_ROLES' AND IS_UPDATABLE = 'YES'
+		   151 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   151 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   152 Quit	
+		   151 Quit	
+240703  8:14:11	   153 Connect	MY_USERNAME@localhost on  using Socket
+		   153 Query	SELECT @@version, @@version_comment
+		   153 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   153 Query	SET lc_messages = 'en_US'
+		   154 Connect	MY_USERNAME@localhost on  using Socket
+		   154 Query	SHOW TABLES FROM `phpmyadmin`
+		   153 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   154 Query	SHOW TABLES FROM `phpmyadmin`
+		   153 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   153 Query	SELECT CURRENT_USER()
+		   153 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   153 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   153 Quit	
+		   154 Quit	
+		   155 Connect	MY_USERNAME@localhost on  using Socket
+		   155 Query	SELECT @@version, @@version_comment
+		   155 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   155 Query	SET lc_messages = 'en_US'
+		   156 Connect	MY_USERNAME@localhost on  using Socket
+		   156 Query	SHOW TABLES FROM `phpmyadmin`
+		   156 Query	SHOW TABLES FROM `information_schema`
+		   155 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   156 Query	SHOW TABLES FROM `phpmyadmin`
+		   156 Query	SHOW TABLES FROM `information_schema`
+		   155 Query	SELECT CURRENT_USER()
+		   155 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   155 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   155 Query	SELECT DATABASE()
+		   155 Init DB	information_schema
+		   155 Query	SELECT * FROM `COLUMN_PRIVILEGES` LIMIT 0, 25
+		   155 Query	SHOW WARNINGS
+		   155 Query	SELECT @@lower_case_table_names
+		   155 Query	SHOW INDEXES FROM `information_schema`.`COLUMN_PRIVILEGES`
+		   155 Query	SHOW CREATE TABLE `information_schema`.`COLUMN_PRIVILEGES`
+		   155 Query	SELECT *, `COLUMN_NAME`       AS `Field`, `COLUMN_TYPE`       AS `Type`, `COLLATION_NAME`    AS `Collation`, `IS_NULLABLE`       AS `Null`, `COLUMN_KEY`        AS `Key`, `COLUMN_DEFAULT`    AS `Default`, `EXTRA`             AS `Extra`, `PRIVILEGES`        AS `Privileges`, `COLUMN_COMMENT`    AS `Comment` FROM `information_schema`.`COLUMNS`
+ WHERE `TABLE_SCHEMA` = 'information_schema'  AND `TABLE_NAME` = 'SCHEMATA'
+		   155 Query	SHOW FULL COLUMNS FROM `information_schema`.`COLUMN_PRIVILEGES`
+		   155 Query	SHOW INDEXES FROM `information_schema`.`COLUMN_PRIVILEGES`
+		   155 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   155 Query	SHOW  COLUMNS FROM `information_schema`.`COLUMN_PRIVILEGES`
+		   155 Query	SHOW INDEXES FROM `information_schema`.`COLUMN_PRIVILEGES`
+		   155 Query	SELECT TABLE_NAME FROM information_schema.VIEWS WHERE TABLE_SCHEMA = 'information_schema' AND TABLE_NAME = 'COLUMN_PRIVILEGES' AND IS_UPDATABLE = 'YES'
+		   155 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   155 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   155 Quit	
+		   156 Quit	
+240703  8:14:12	   157 Connect	MY_USERNAME@localhost on  using Socket
+		   157 Query	SELECT @@version, @@version_comment
+		   157 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   157 Query	SET lc_messages = 'en_US'
+		   158 Connect	MY_USERNAME@localhost on  using Socket
+		   158 Query	SHOW TABLES FROM `phpmyadmin`
+		   157 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   158 Query	SHOW TABLES FROM `phpmyadmin`
+		   157 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   157 Query	SELECT CURRENT_USER()
+		   157 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   157 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   157 Quit	
+		   158 Quit	
+240703  8:14:13	   159 Connect	MY_USERNAME@localhost on  using Socket
+		   159 Query	SELECT @@version, @@version_comment
+		   159 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   159 Query	SET lc_messages = 'en_US'
+		   160 Connect	MY_USERNAME@localhost on  using Socket
+		   160 Query	SHOW TABLES FROM `phpmyadmin`
+		   160 Query	SHOW TABLES FROM `information_schema`
+		   159 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   160 Query	SHOW TABLES FROM `phpmyadmin`
+		   160 Query	SHOW TABLES FROM `information_schema`
+		   159 Query	SELECT CURRENT_USER()
+		   159 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   159 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   159 Query	SELECT DATABASE()
+		   159 Init DB	information_schema
+		   159 Query	SELECT * FROM `COLUMNS` LIMIT 0, 25
+		   159 Query	SHOW WARNINGS
+		   159 Query	SELECT @@lower_case_table_names
+		   159 Query	SELECT TABLE_NAME FROM information_schema.VIEWS WHERE TABLE_SCHEMA = 'information_schema' AND TABLE_NAME = 'COLUMNS' AND IS_UPDATABLE = 'YES'
+		   159 Query	SHOW  COLUMNS FROM `information_schema`.`COLUMNS`
+		   159 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   159 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   159 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   159 Query	SHOW CREATE TABLE `information_schema`.`COLUMNS`
+		   159 Query	SELECT *, `COLUMN_NAME`       AS `Field`, `COLUMN_TYPE`       AS `Type`, `COLLATION_NAME`    AS `Collation`, `IS_NULLABLE`       AS `Null`, `COLUMN_KEY`        AS `Key`, `COLUMN_DEFAULT`    AS `Default`, `EXTRA`             AS `Extra`, `PRIVILEGES`        AS `Privileges`, `COLUMN_COMMENT`    AS `Comment` FROM `information_schema`.`COLUMNS`
+ WHERE `TABLE_SCHEMA` = 'information_schema'  AND `TABLE_NAME` = 'SCHEMATA'
+		   159 Query	SELECT *, `COLUMN_NAME`       AS `Field`, `COLUMN_TYPE`       AS `Type`, `COLLATION_NAME`    AS `Collation`, `IS_NULLABLE`       AS `Null`, `COLUMN_KEY`        AS `Key`, `COLUMN_DEFAULT`    AS `Default`, `EXTRA`             AS `Extra`, `PRIVILEGES`        AS `Privileges`, `COLUMN_COMMENT`    AS `Comment` FROM `information_schema`.`COLUMNS`
+ WHERE `TABLE_SCHEMA` = 'information_schema'  AND `TABLE_NAME` = 'COLLATIONS'
+		   159 Query	SHOW FULL COLUMNS FROM `information_schema`.`COLUMNS`
+		   159 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   159 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   159 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   159 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   159 Query	SHOW  COLUMNS FROM `information_schema`.`COLUMNS`
+		   159 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   159 Query	SELECT TABLE_NAME FROM information_schema.VIEWS WHERE TABLE_SCHEMA = 'information_schema' AND TABLE_NAME = 'COLUMNS' AND IS_UPDATABLE = 'YES'
+		   159 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   159 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   160 Quit	
+		   159 Quit	
+		   161 Connect	MY_USERNAME@localhost on  using Socket
+		   161 Query	SELECT @@version, @@version_comment
+		   161 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   161 Query	SET lc_messages = 'en_US'
+		   162 Connect	MY_USERNAME@localhost on  using Socket
+		   162 Query	SHOW TABLES FROM `phpmyadmin`
+		   161 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   162 Query	SHOW TABLES FROM `phpmyadmin`
+		   161 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   161 Query	SELECT CURRENT_USER()
+		   161 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   161 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   161 Quit	
+		   162 Quit	
+240703  8:14:19	   163 Connect	MY_USERNAME@localhost on  using Socket
+		   163 Query	SELECT @@version, @@version_comment
+		   163 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   163 Query	SET lc_messages = 'en_US'
+		   164 Connect	MY_USERNAME@localhost on  using Socket
+		   164 Query	SHOW TABLES FROM `phpmyadmin`
+		   163 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   164 Query	SHOW TABLES FROM `phpmyadmin`
+		   163 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   163 Query	SELECT CURRENT_USER()
+		   163 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   163 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   163 Quit	
+		   164 Quit	
+240703  8:14:45	   165 Connect	MY_USERNAME@localhost on  using Socket
+		   165 Query	SELECT @@version, @@version_comment
+		   165 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   165 Query	SET lc_messages = 'en_US'
+		   166 Connect	MY_USERNAME@localhost on  using Socket
+		   166 Query	SHOW TABLES FROM `phpmyadmin`
+		   166 Query	SHOW TABLES FROM `information_schema`
+		   165 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   166 Query	SHOW TABLES FROM `phpmyadmin`
+		   166 Query	SHOW TABLES FROM `information_schema`
+		   165 Query	SELECT CURRENT_USER()
+		   165 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   165 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   165 Query	SELECT DATABASE()
+		   165 Init DB	information_schema
+		   165 Query	SELECT * FROM `COLUMNS` LIMIT 0, 25
+		   165 Query	SHOW WARNINGS
+		   165 Query	SELECT @@lower_case_table_names
+		   165 Query	SELECT TABLE_NAME FROM information_schema.VIEWS WHERE TABLE_SCHEMA = 'information_schema' AND TABLE_NAME = 'COLUMNS' AND IS_UPDATABLE = 'YES'
+		   165 Query	SHOW  COLUMNS FROM `information_schema`.`COLUMNS`
+		   165 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   165 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   165 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   165 Query	SHOW CREATE TABLE `information_schema`.`COLUMNS`
+		   165 Query	SELECT *, `COLUMN_NAME`       AS `Field`, `COLUMN_TYPE`       AS `Type`, `COLLATION_NAME`    AS `Collation`, `IS_NULLABLE`       AS `Null`, `COLUMN_KEY`        AS `Key`, `COLUMN_DEFAULT`    AS `Default`, `EXTRA`             AS `Extra`, `PRIVILEGES`        AS `Privileges`, `COLUMN_COMMENT`    AS `Comment` FROM `information_schema`.`COLUMNS`
+ WHERE `TABLE_SCHEMA` = 'information_schema'  AND `TABLE_NAME` = 'SCHEMATA'
+		   165 Query	SELECT *, `COLUMN_NAME`       AS `Field`, `COLUMN_TYPE`       AS `Type`, `COLLATION_NAME`    AS `Collation`, `IS_NULLABLE`       AS `Null`, `COLUMN_KEY`        AS `Key`, `COLUMN_DEFAULT`    AS `Default`, `EXTRA`             AS `Extra`, `PRIVILEGES`        AS `Privileges`, `COLUMN_COMMENT`    AS `Comment` FROM `information_schema`.`COLUMNS`
+ WHERE `TABLE_SCHEMA` = 'information_schema'  AND `TABLE_NAME` = 'COLLATIONS'
+		   165 Query	SHOW FULL COLUMNS FROM `information_schema`.`COLUMNS`
+		   165 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SELECT `CATALOG_NAME` FROM `information_schema`.`SCHEMATA` WHERE `SCHEMA_NAME` = 'information_schema'
+		   165 Query	SELECT `DESCRIPTION` FROM `information_schema`.`CHARACTER_SETS` WHERE `CHARACTER_SET_NAME` = 'utf8mb3'
+		   165 Query	SELECT `COLLATION_NAME` FROM `information_schema`.`COLLATIONS` WHERE `COLLATION_NAME` = 'utf8mb3_general_ci'
+		   165 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   165 Query	SHOW  COLUMNS FROM `information_schema`.`COLUMNS`
+		   165 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   165 Query	SELECT TABLE_NAME FROM information_schema.VIEWS WHERE TABLE_SCHEMA = 'information_schema' AND TABLE_NAME = 'COLUMNS' AND IS_UPDATABLE = 'YES'
+		   165 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   165 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   166 Quit	
+		   165 Quit	
+		   167 Connect	MY_USERNAME@localhost on  using Socket
+		   167 Query	SELECT @@version, @@version_comment
+		   167 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   167 Query	SET lc_messages = 'en_US'
+		   168 Connect	MY_USERNAME@localhost on  using Socket
+		   168 Query	SHOW TABLES FROM `phpmyadmin`
+		   167 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   168 Query	SHOW TABLES FROM `phpmyadmin`
+		   167 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   167 Query	SELECT CURRENT_USER()
+		   167 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   167 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   168 Quit	
+		   167 Quit	
+240703  8:14:47	   169 Connect	MY_USERNAME@localhost on  using Socket
+		   169 Query	SELECT @@version, @@version_comment
+		   169 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   169 Query	SET lc_messages = 'en_US'
+		   170 Connect	MY_USERNAME@localhost on  using Socket
+		   170 Query	SHOW TABLES FROM `phpmyadmin`
+		   170 Query	SHOW TABLES FROM `information_schema`
+		   169 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   170 Query	SHOW TABLES FROM `phpmyadmin`
+		   170 Query	SHOW TABLES FROM `information_schema`
+		   169 Init DB	information_schema
+		   169 Query	SHOW TABLES LIKE 'COLUMNS'
+		   169 Query	SHOW FULL COLUMNS FROM `information_schema`.`COLUMNS`
+		   169 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   169 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   169 Query	SHOW  COLUMNS FROM `information_schema`.`COLUMNS`
+		   169 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   169 Query	SELECT TABLE_NAME FROM information_schema.VIEWS WHERE TABLE_SCHEMA = 'information_schema' AND TABLE_NAME = 'COLUMNS' AND IS_UPDATABLE = 'YES'
+		   169 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   169 Query	SELECT CURRENT_USER()
+		   169 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   169 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   170 Quit	
+		   169 Quit	
+		   171 Connect	MY_USERNAME@localhost on  using Socket
+		   171 Query	SELECT @@version, @@version_comment
+		   171 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   171 Query	SET lc_messages = 'en_US'
+		   172 Connect	MY_USERNAME@localhost on  using Socket
+		   172 Query	SHOW TABLES FROM `phpmyadmin`
+		   171 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   172 Query	SHOW TABLES FROM `phpmyadmin`
+		   171 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   171 Query	SELECT CURRENT_USER()
+		   171 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   171 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   172 Quit	
+		   171 Quit	
+		   173 Connect	MY_USERNAME@localhost on  using Socket
+		   173 Query	SELECT @@version, @@version_comment
+		   173 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   173 Query	SET lc_messages = 'en_US'
+		   174 Connect	MY_USERNAME@localhost on  using Socket
+		   174 Query	SHOW TABLES FROM `phpmyadmin`
+		   173 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   174 Query	SHOW TABLES FROM `phpmyadmin`
+		   174 Quit	
+		   173 Quit	
+240703  8:14:48	   175 Connect	MY_USERNAME@localhost on  using Socket
+		   175 Query	SELECT @@version, @@version_comment
+		   175 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   175 Query	SET lc_messages = 'en_US'
+		   176 Connect	MY_USERNAME@localhost on  using Socket
+		   176 Query	SHOW TABLES FROM `phpmyadmin`
+		   176 Query	SHOW TABLES FROM `information_schema`
+		   175 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   176 Query	SHOW TABLES FROM `phpmyadmin`
+		   176 Query	SHOW TABLES FROM `information_schema`
+		   175 Query	SHOW TABLES FROM `information_schema`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`ALL_PLUGINS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`ALL_PLUGINS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`APPLICABLE_ROLES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`APPLICABLE_ROLES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`CHARACTER_SETS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`CHARACTER_SETS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`CHECK_CONSTRAINTS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`CHECK_CONSTRAINTS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`CLIENT_STATISTICS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`CLIENT_STATISTICS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`COLLATIONS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`COLLATIONS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`COLLATION_CHARACTER_SET_APPLICABILITY`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`COLLATION_CHARACTER_SET_APPLICABILITY`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`COLUMNS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`COLUMNS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`COLUMN_PRIVILEGES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`COLUMN_PRIVILEGES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`ENABLED_ROLES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`ENABLED_ROLES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`ENGINES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`ENGINES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`EVENTS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`EVENTS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`FILES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`FILES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`GEOMETRY_COLUMNS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`GEOMETRY_COLUMNS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`GLOBAL_STATUS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`GLOBAL_STATUS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`GLOBAL_VARIABLES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`GLOBAL_VARIABLES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INDEX_STATISTICS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INDEX_STATISTICS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_BUFFER_PAGE`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_BUFFER_PAGE`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_BUFFER_PAGE_LRU`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_BUFFER_PAGE_LRU`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_BUFFER_POOL_STATS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_BUFFER_POOL_STATS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_CMP`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_CMP`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_CMPMEM`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_CMPMEM`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_CMPMEM_RESET`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_CMPMEM_RESET`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_CMP_PER_INDEX`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_CMP_PER_INDEX`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_CMP_PER_INDEX_RESET`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_CMP_PER_INDEX_RESET`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_CMP_RESET`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_CMP_RESET`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_FT_BEING_DELETED`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_FT_BEING_DELETED`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_FT_CONFIG`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_FT_CONFIG`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_FT_DEFAULT_STOPWORD`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_FT_DEFAULT_STOPWORD`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_FT_DELETED`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_FT_DELETED`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_FT_INDEX_CACHE`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_FT_INDEX_CACHE`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_FT_INDEX_TABLE`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_FT_INDEX_TABLE`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_LOCKS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_LOCKS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_LOCK_WAITS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_LOCK_WAITS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_METRICS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_METRICS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_SYS_COLUMNS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_SYS_COLUMNS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_SYS_FIELDS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_SYS_FIELDS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_SYS_FOREIGN`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_SYS_FOREIGN`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_SYS_FOREIGN_COLS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_SYS_FOREIGN_COLS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_SYS_INDEXES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_SYS_INDEXES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_SYS_TABLES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_SYS_TABLES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_SYS_TABLESPACES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_SYS_TABLESPACES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_SYS_TABLESTATS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_SYS_TABLESTATS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_SYS_VIRTUAL`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_SYS_VIRTUAL`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_TABLESPACES_ENCRYPTION`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_TABLESPACES_ENCRYPTION`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`INNODB_TRX`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`INNODB_TRX`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`KEYWORDS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`KEYWORDS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`KEY_CACHES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`KEY_CACHES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`KEY_COLUMN_USAGE`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`KEY_COLUMN_USAGE`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`OPTIMIZER_TRACE`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`OPTIMIZER_TRACE`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`PARAMETERS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`PARAMETERS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`PARTITIONS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`PARTITIONS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`PLUGINS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`PLUGINS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`PROCESSLIST`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`PROCESSLIST`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`PROFILING`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`PROFILING`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`REFERENTIAL_CONSTRAINTS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`REFERENTIAL_CONSTRAINTS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`ROUTINES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`ROUTINES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`SCHEMATA`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`SCHEMATA`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`SCHEMA_PRIVILEGES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`SCHEMA_PRIVILEGES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`SESSION_STATUS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`SESSION_STATUS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`SESSION_VARIABLES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`SESSION_VARIABLES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`SPATIAL_REF_SYS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`SPATIAL_REF_SYS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`SQL_FUNCTIONS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`SQL_FUNCTIONS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`STATISTICS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`STATISTICS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`SYSTEM_VARIABLES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`SYSTEM_VARIABLES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`TABLES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`TABLES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`TABLESPACES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`TABLESPACES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`TABLE_CONSTRAINTS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`TABLE_CONSTRAINTS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`TABLE_PRIVILEGES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`TABLE_PRIVILEGES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`TABLE_STATISTICS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`TABLE_STATISTICS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`THREAD_POOL_GROUPS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`THREAD_POOL_GROUPS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`THREAD_POOL_QUEUES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`THREAD_POOL_QUEUES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`THREAD_POOL_STATS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`THREAD_POOL_STATS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`THREAD_POOL_WAITS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`THREAD_POOL_WAITS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`TRIGGERS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`TRIGGERS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`USER_PRIVILEGES`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`USER_PRIVILEGES`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`USER_STATISTICS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`USER_STATISTICS`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`user_variables`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`user_variables`
+		   175 Query	SHOW  COLUMNS FROM `information_schema`.`VIEWS`
+		   175 Query	SHOW INDEXES FROM `information_schema`.`VIEWS`
+		   175 Query	SHOW TABLES FROM `information_schema`
+		   175 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   175 Query	SELECT CURRENT_USER()
+		   175 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   175 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		   176 Quit	
+		   175 Quit	
+240703  8:14:49	   177 Connect	MY_USERNAME@localhost on  using Socket
+		   177 Query	SELECT @@version, @@version_comment
+		   177 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   177 Query	SET lc_messages = 'en_US'
+		   178 Connect	MY_USERNAME@localhost on  using Socket
+		   178 Query	SHOW TABLES FROM `phpmyadmin`
+		   177 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   178 Query	SHOW TABLES FROM `phpmyadmin`
+		   178 Quit	
+		   177 Quit	
+240703  8:15:05	   179 Connect	MY_USERNAME@localhost on  using Socket
+		   179 Query	SELECT @@version, @@version_comment
+		   179 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   179 Query	SET lc_messages = 'en_US'
+		   180 Connect	MY_USERNAME@localhost on  using Socket
+		   180 Query	SHOW TABLES FROM `phpmyadmin`
+		   179 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   180 Query	SHOW TABLES FROM `phpmyadmin`
+		   180 Quit	
+		   179 Quit	
+240703  8:15:07	   181 Connect	MY_USERNAME@localhost on  using Socket
+		   181 Query	SELECT @@version, @@version_comment
+		   181 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   181 Query	SET lc_messages = 'en_US'
+		   182 Connect	MY_USERNAME@localhost on  using Socket
+		   182 Query	SHOW TABLES FROM `phpmyadmin`
+		   182 Query	SHOW TABLES FROM `information_schema`
+		   181 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   182 Query	SHOW TABLES FROM `phpmyadmin`
+		   182 Query	SHOW TABLES FROM `information_schema`
+		   181 Query	SELECT CURRENT_USER()
+		   181 Init DB	information_schema
+		   181 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   181 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   181 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   181 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   181 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   181 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   181 Query	SELECT DATABASE()
+		   181 Init DB	information_schema
+		   181 Query	GRANT ALL PRIVILEGES ON *.* TO 'MY_USERNAME'@'%'
+		   182 Quit	
+		   181 Quit	
+		   183 Connect	MY_USERNAME@localhost on  using Socket
+		   183 Query	SELECT @@version, @@version_comment
+		   183 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   183 Query	SET lc_messages = 'en_US'
+		   184 Connect	MY_USERNAME@localhost on  using Socket
+		   184 Query	SHOW TABLES FROM `phpmyadmin`
+		   184 Query	SHOW TABLES FROM `information_schema`
+		   183 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   184 Query	SHOW TABLES FROM `phpmyadmin`
+		   184 Query	SHOW TABLES FROM `information_schema`
+		   183 Query	SELECT CURRENT_USER()
+		   183 Init DB	information_schema
+		   183 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   183 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   183 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   183 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   183 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   183 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   183 Query	SELECT DATABASE()
+		   183 Init DB	information_schema
+		   183 Query	GRANT ALL PRIVILEGES ON *.* TO 'MY_USERNAME'@'%'
+		   184 Quit	
+		   183 Quit	
+240703  8:15:14	   185 Connect	MY_USERNAME@localhost on  using Socket
+		   185 Query	SELECT @@version, @@version_comment
+		   185 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   185 Query	SET lc_messages = 'en_US'
+		   186 Connect	MY_USERNAME@localhost on  using Socket
+		   186 Query	SHOW TABLES FROM `phpmyadmin`
+		   185 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   186 Query	SHOW TABLES FROM `phpmyadmin`
+		   186 Quit	
+		   185 Quit	
+240703  8:15:15	   187 Connect	MY_USERNAME@localhost on  using Socket
+		   187 Query	SELECT @@version, @@version_comment
+		   187 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		   187 Query	SET lc_messages = 'en_US'
+		   188 Connect	MY_USERNAME@localhost on  using Socket
+		   188 Query	SHOW TABLES FROM `phpmyadmin`
+		   188 Query	SHOW TABLES FROM `information_schema`
+		   187 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		   188 Query	SHOW TABLES FROM `phpmyadmin`
+		   188 Query	SHOW TABLES FROM `information_schema`
+		   187 Query	SELECT CURRENT_USER()
+		   187 Init DB	information_schema
+		   187 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   187 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   187 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   187 Query	SELECT 1 FROM mysql.user LIMIT 1
+		   187 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   187 Query	SHOW SESSION VARIABLES LIKE 'FOREIGN_KEY_CHECKS'
+		   187 Query	SELECT DATABASE()
+		   187 Init DB	information_schema
+		   187 Query	GRANT ALL PRIVILEGES ON *.* TO 'MY_USERNAME'@'127.0.0.1'
+		   188 Quit	
+		   187 Quit	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+240703  8:17:00	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS MY_DATABASE_NAME
+		     4 Query	CREATE USER IF NOT EXISTS 'MY_USERNAME'@'localhost' IDENTIFIED BY 'MY_PASSWORD'
+		     4 Query	GRANT ALL PRIVILEGES ON *.* TO 'MY_USERNAME'@'localhost'
+		     4 Query	FLUSH PRIVILEGES
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+240703  8:17:25	     3 Connect	MY_USERNAME@localhost on  using Socket
+		     3 Query	SELECT @@version, @@version_comment
+		     3 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     3 Query	SET lc_messages = 'en_US'
+		     4 Connect	MY_USERNAME@localhost on  using Socket
+		     3 Quit	
+		     4 Quit	
+240703  8:17:26	     5 Connect	MY_USERNAME@localhost on  using Socket
+		     5 Query	SELECT @@version, @@version_comment
+		     5 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     5 Query	SET lc_messages = 'en_US'
+		     6 Connect	MY_USERNAME@localhost on  using Socket
+		     6 Query	SHOW TABLES FROM `phpmyadmin`
+		     5 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		     6 Query	SHOW TABLES FROM `phpmyadmin`
+		     5 Query	SELECT 1 FROM mysql.user LIMIT 1
+		     5 Init DB	mysql
+		     5 Query	SELECT CURRENT_USER()
+		     5 Query	SHOW GRANTS
+		     5 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		     5 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		     5 Query	SHOW SESSION VARIABLES LIKE 'character_set_server'
+		     5 Query	SELECT USER()
+		     5 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		     5 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		     5 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		     5 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     5 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     5 Query	SHOW MASTER LOGS
+		     5 Quit	
+		     6 Quit	
+240703  8:17:29	     7 Connect	MY_USERNAME@localhost on  using Socket
+		     7 Query	SELECT @@version, @@version_comment
+		     7 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     7 Query	SET lc_messages = 'en_US'
+		     8 Connect	MY_USERNAME@localhost on  using Socket
+		     8 Query	SHOW TABLES FROM `phpmyadmin`
+		     7 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		     8 Query	SHOW TABLES FROM `phpmyadmin`
+		     7 Query	SELECT 1 FROM mysql.user LIMIT 1
+		     7 Query	SELECT CURRENT_USER()
+		     7 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     7 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     8 Quit	
+		     7 Quit	
+		     9 Connect	MY_USERNAME@localhost on  using Socket
+		     9 Query	SELECT @@version, @@version_comment
+		     9 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     9 Query	SET lc_messages = 'en_US'
+		    10 Connect	MY_USERNAME@localhost on  using Socket
+		    10 Query	SHOW TABLES FROM `phpmyadmin`
+		     9 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    10 Query	SHOW TABLES FROM `phpmyadmin`
+		     9 Query	SELECT CURRENT_USER()
+		     9 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		     9 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		     9 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		     9 Query	SELECT 1 FROM mysql.user LIMIT 1
+		     9 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     9 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    10 Quit	
+		     9 Quit	
+		    11 Connect	MY_USERNAME@localhost on  using Socket
+		    11 Query	SELECT @@version, @@version_comment
+		    11 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    11 Query	SET lc_messages = 'en_US'
+		    12 Connect	MY_USERNAME@localhost on  using Socket
+		    12 Query	SHOW TABLES FROM `phpmyadmin`
+		    11 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    12 Query	SHOW TABLES FROM `phpmyadmin`
+		    12 Quit	
+		    11 Quit	
+		    13 Connect	MY_USERNAME@localhost on  using Socket
+		    13 Query	SELECT @@version, @@version_comment
+		    13 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    13 Query	SET lc_messages = 'en_US'
+		    14 Connect	MY_USERNAME@localhost on  using Socket
+		    14 Query	SHOW TABLES FROM `phpmyadmin`
+		    13 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    14 Query	SHOW TABLES FROM `phpmyadmin`
+		    13 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    13 Query	SELECT CURRENT_USER()
+		    13 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    13 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    14 Quit	
+		    13 Quit	
+		    15 Connect	MY_USERNAME@localhost on  using Socket
+		    15 Query	SELECT @@version, @@version_comment
+		    15 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    15 Query	SET lc_messages = 'en_US'
+		    16 Connect	MY_USERNAME@localhost on  using Socket
+		    16 Query	SHOW TABLES FROM `phpmyadmin`
+		    15 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    16 Query	SHOW TABLES FROM `phpmyadmin`
+		    15 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    15 Query	SELECT CURRENT_USER()
+		    15 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    15 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    16 Quit	
+		    15 Quit	
+240703  8:17:30	    17 Connect	MY_USERNAME@localhost on  using Socket
+		    17 Query	SELECT @@version, @@version_comment
+		    17 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    17 Query	SET lc_messages = 'en_US'
+		    18 Connect	MY_USERNAME@localhost on  using Socket
+		    18 Query	SHOW TABLES FROM `phpmyadmin`
+		    17 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    18 Query	SHOW TABLES FROM `phpmyadmin`
+		    17 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    17 Init DB	mysql
+		    17 Query	SELECT CURRENT_USER()
+		    17 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		    17 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		    17 Query	SHOW SESSION VARIABLES LIKE 'character_set_server'
+		    17 Query	SELECT USER()
+		    17 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    17 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''MY_USERNAME''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    18 Quit	
+		    17 Quit	
+		    19 Connect	MY_USERNAME@localhost on  using Socket
+		    19 Query	SELECT @@version, @@version_comment
+		    19 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    19 Query	SET lc_messages = 'en_US'
+		    20 Connect	MY_USERNAME@localhost on  using Socket
+		    20 Query	SHOW TABLES FROM `phpmyadmin`
+		    19 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    20 Query	SHOW TABLES FROM `phpmyadmin`
+		    20 Quit	
+		    19 Quit	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+240703  8:51:41	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS MY_DATABASE_NAME
+		     4 Query	CREATE USER IF NOT EXISTS 'MY_USERNAME'@'localhost' IDENTIFIED BY 'MY_PASSWORD'
+		     4 Query	GRANT ALL PRIVILEGES ON *.* TO 'MY_USERNAME'@'localhost'
+		     4 Query	FLUSH PRIVILEGES
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+240920  3:06:03	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+240920  3:07:49	     3 Connect	runner@localhost on  using Socket
+		     3 Quit	
+		     4 Connect	runner@localhost on  using Socket
+		     4 Query	CREATE DATABASE IF NOT EXISTS db_name
+		     4 Query	CREATE USER IF NOT EXISTS 'db_user'@'localhost' IDENTIFIED BY 'db_pass'
+		     4 Query	GRANT ALL PRIVILEGES ON *.* TO 'db_user'@'localhost'
+		     4 Query	FLUSH PRIVILEGES
+		     4 Quit	
+		     5 Connect	runner@localhost on  using Socket
+		     5 Query	SHOW VARIABLES LIKE 'pid_file'
+		     5 Shutdown	
+/nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd, Version: 10.6.7-MariaDB-log (MariaDB Server). started with:
+Tcp port: 0  Unix socket: (null)
+Time		    Id Command	Argument
+240920  3:12:54	     3 Connect	db_user@localhost on  using Socket
+		     3 Connect	Access denied for user 'db_user'@'localhost' (using password: YES)
+240920  3:13:15	     4 Connect	db_user@localhost on  using Socket
+		     4 Query	SELECT @@version, @@version_comment
+		     4 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     4 Query	SET lc_messages = 'en_US'
+		     5 Connect	db_user@localhost on  using Socket
+		     5 Quit	
+		     4 Quit	
+		     6 Connect	db_user@localhost on  using Socket
+		     6 Query	SELECT @@version, @@version_comment
+		     6 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     6 Query	SET lc_messages = 'en_US'
+		     7 Connect	db_user@localhost on  using Socket
+		     7 Query	SHOW TABLES FROM `phpmyadmin`
+		     6 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		     7 Query	SHOW TABLES FROM `phpmyadmin`
+		     6 Query	SELECT 1 FROM mysql.user LIMIT 1
+		     6 Init DB	mysql
+		     6 Query	SELECT CURRENT_USER()
+		     6 Query	SHOW GRANTS
+		     6 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		     6 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		     6 Query	SHOW SESSION VARIABLES LIKE 'character_set_server'
+		     6 Query	SELECT USER()
+		     6 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+240920  3:13:16	     6 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		     6 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		     6 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     6 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     6 Query	SHOW MASTER LOGS
+		     7 Quit	
+		     6 Quit	
+240920  3:13:17	     8 Connect	db_user@localhost on  using Socket
+		     8 Query	SELECT @@version, @@version_comment
+		     8 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		     8 Query	SET lc_messages = 'en_US'
+		     9 Connect	db_user@localhost on  using Socket
+		     9 Query	SHOW TABLES FROM `phpmyadmin`
+		     8 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		     9 Query	SHOW TABLES FROM `phpmyadmin`
+		     8 Query	SELECT 1 FROM mysql.user LIMIT 1
+		     8 Query	SELECT CURRENT_USER()
+		     8 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     8 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		     9 Quit	
+		     8 Quit	
+		    10 Connect	db_user@localhost on  using Socket
+		    10 Query	SELECT @@version, @@version_comment
+		    10 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    10 Query	SET lc_messages = 'en_US'
+		    11 Connect	db_user@localhost on  using Socket
+		    11 Query	SHOW TABLES FROM `phpmyadmin`
+		    10 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    11 Query	SHOW TABLES FROM `phpmyadmin`
+		    10 Query	SELECT CURRENT_USER()
+		    10 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		    10 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    10 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    10 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    10 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    10 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    11 Quit	
+		    10 Quit	
+		    12 Connect	db_user@localhost on  using Socket
+		    12 Query	SELECT @@version, @@version_comment
+		    12 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    12 Query	SET lc_messages = 'en_US'
+		    13 Connect	db_user@localhost on  using Socket
+		    13 Query	SHOW TABLES FROM `phpmyadmin`
+		    12 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    13 Query	SHOW TABLES FROM `phpmyadmin`
+		    12 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    12 Query	SELECT CURRENT_USER()
+		    12 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    12 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    13 Quit	
+		    12 Quit	
+		    14 Connect	db_user@localhost on  using Socket
+		    14 Query	SELECT @@version, @@version_comment
+		    14 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    14 Query	SET lc_messages = 'en_US'
+		    15 Connect	db_user@localhost on  using Socket
+		    15 Query	SHOW TABLES FROM `phpmyadmin`
+		    14 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    15 Query	SHOW TABLES FROM `phpmyadmin`
+240920  3:13:18	    15 Quit	
+		    14 Quit	
+		    16 Connect	db_user@localhost on  using Socket
+		    16 Query	SELECT @@version, @@version_comment
+		    16 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    16 Query	SET lc_messages = 'en_US'
+		    17 Connect	db_user@localhost on  using Socket
+		    17 Query	SHOW TABLES FROM `phpmyadmin`
+		    16 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    17 Query	SHOW TABLES FROM `phpmyadmin`
+		    16 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    16 Query	SELECT CURRENT_USER()
+		    16 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    16 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    17 Quit	
+		    16 Quit	
+240920  3:14:43	    18 Connect	db_user@localhost on  using Socket
+		    18 Query	SELECT @@version, @@version_comment
+		    18 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    18 Query	SET lc_messages = 'en_US'
+		    19 Connect	db_user@localhost on  using Socket
+		    19 Query	SHOW TABLES FROM `phpmyadmin`
+		    18 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    19 Query	SHOW TABLES FROM `phpmyadmin`
+		    18 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    18 Init DB	mysql
+		    18 Query	SELECT CURRENT_USER()
+		    18 Query	SELECT `CHARACTER_SET_NAME` AS `Charset`, `DEFAULT_COLLATE_NAME` AS `Default collation`, `DESCRIPTION` AS `Description`, `MAXLEN` AS `Maxlen` FROM `information_schema`.`CHARACTER_SETS`
+		    18 Query	SELECT `COLLATION_NAME` AS `Collation`, `CHARACTER_SET_NAME` AS `Charset`, `ID` AS `Id`, `IS_DEFAULT` AS `Default`, `IS_COMPILED` AS `Compiled`, `SORTLEN` AS `Sortlen` FROM `information_schema`.`COLLATIONS`
+		    18 Query	SHOW SESSION VARIABLES LIKE 'character_set_server'
+		    18 Query	SELECT USER()
+		    18 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+240920  3:14:44	    18 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    18 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    18 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    18 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    19 Quit	
+		    18 Quit	
+240920  3:14:45	    20 Connect	db_user@localhost on  using Socket
+		    20 Query	SELECT @@version, @@version_comment
+		    20 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    20 Query	SET lc_messages = 'en_US'
+		    21 Connect	db_user@localhost on  using Socket
+		    21 Query	SHOW TABLES FROM `phpmyadmin`
+		    20 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    21 Query	SHOW TABLES FROM `phpmyadmin`
+		    20 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    20 Query	SELECT CURRENT_USER()
+		    20 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    20 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    21 Quit	
+		    20 Quit	
+		    22 Connect	db_user@localhost on  using Socket
+		    22 Query	SELECT @@version, @@version_comment
+		    22 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    22 Query	SET lc_messages = 'en_US'
+		    23 Connect	db_user@localhost on  using Socket
+		    23 Query	SHOW TABLES FROM `phpmyadmin`
+		    22 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    23 Query	SHOW TABLES FROM `phpmyadmin`
+		    22 Query	SELECT CURRENT_USER()
+		    22 Query	SELECT `SCHEMA_NAME` FROM `INFORMATION_SCHEMA`.`SCHEMATA`, (SELECT DB_first_level FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t ORDER BY DB_first_level ASC LIMIT 0, 100) t2 WHERE TRUE AND 1 = LOCATE(CONCAT(DB_first_level, '_'), CONCAT(SCHEMA_NAME, '_')) ORDER BY SCHEMA_NAME ASC
+		    22 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    22 Query	SELECT COUNT(*) FROM ( SELECT DISTINCT SUBSTRING_INDEX(SCHEMA_NAME, '_', 1) DB_first_level FROM INFORMATION_SCHEMA.SCHEMATA WHERE TRUE ) t
+		    22 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    22 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    22 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    23 Quit	
+		    22 Quit	
+		    24 Connect	db_user@localhost on  using Socket
+		    24 Query	SELECT @@version, @@version_comment
+		    24 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    24 Query	SET lc_messages = 'en_US'
+		    25 Connect	db_user@localhost on  using Socket
+		    25 Query	SHOW TABLES FROM `phpmyadmin`
+		    24 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    25 Query	SHOW TABLES FROM `phpmyadmin`
+		    24 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    24 Query	SELECT CURRENT_USER()
+		    24 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    24 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    25 Quit	
+		    24 Quit	
+		    26 Connect	db_user@localhost on  using Socket
+		    26 Query	SELECT @@version, @@version_comment
+		    26 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    26 Query	SET lc_messages = 'en_US'
+		    27 Connect	db_user@localhost on  using Socket
+		    27 Query	SHOW TABLES FROM `phpmyadmin`
+		    26 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    27 Query	SHOW TABLES FROM `phpmyadmin`
+		    27 Quit	
+		    26 Quit	
+		    28 Connect	db_user@localhost on  using Socket
+		    28 Query	SELECT @@version, @@version_comment
+		    28 Query	SET NAMES 'utf8mb4' COLLATE 'utf8mb4_general_ci'
+		    28 Query	SET lc_messages = 'en_US'
+		    29 Connect	db_user@localhost on  using Socket
+		    29 Query	SHOW TABLES FROM `phpmyadmin`
+		    28 Query	SET collation_connection = 'utf8mb4_unicode_ci'
+		    29 Query	SHOW TABLES FROM `phpmyadmin`
+		    28 Query	SELECT 1 FROM mysql.user LIMIT 1
+		    28 Query	SELECT CURRENT_USER()
+		    28 Query	SELECT 1 FROM (SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`COLUMN_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`TABLE_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`SCHEMA_PRIVILEGES` UNION SELECT `GRANTEE`, `IS_GRANTABLE` FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES`) t WHERE `IS_GRANTABLE` = 'YES' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    28 Query	SELECT 1 FROM `INFORMATION_SCHEMA`.`USER_PRIVILEGES` WHERE `PRIVILEGE_TYPE` = 'CREATE USER' AND '''db_user''@''localhost''' LIKE `GRANTEE` LIMIT 1
+		    29 Quit	
+		    28 Quit	

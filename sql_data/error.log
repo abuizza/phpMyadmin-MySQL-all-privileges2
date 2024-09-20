@@ -1,0 +1,1210 @@
+230917 13:49:59 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-09-17 13:49:59 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 197 ...
+2023-09-17 13:49:59 0 [Warning] Could not increase number of max_open_files to more than 9765 (request: 32185)
+2023-09-17 13:49:59 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-09-17 13:49:59 0 [Note] InnoDB: Number of pools: 1
+2023-09-17 13:49:59 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-09-17 13:49:59 0 [Note] InnoDB: Using liburing
+2023-09-17 13:49:59 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-09-17 13:49:59 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-09-17 13:49:59 0 [Note] InnoDB: 128 rollback segments are active.
+2023-09-17 13:49:59 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-09-17 13:49:59 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-09-17 13:49:59 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-09-17 13:49:59 0 [Note] InnoDB: 10.6.7 started; log sequence number 42289; transaction id 14
+2023-09-17 13:49:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-09-17 13:49:59 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-09-17 13:49:59 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-09-17 13:49:59 0 [Note] InnoDB: Buffer pool(s) load completed at 230917 13:49:59
+2023-09-17 13:49:59 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-09-17 13:49:59 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-09-17 13:50:00 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-09-17 13:50:00 0 [Note] InnoDB: Starting shutdown...
+2023-09-17 13:50:00 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-09-17 13:50:00 0 [Note] InnoDB: Buffer pool(s) dump completed at 230917 13:50:00
+2023-09-17 13:50:00 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-09-17 13:50:00 0 [Note] InnoDB: Shutdown completed; log sequence number 42301; transaction id 15
+2023-09-17 13:50:00 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+230917 13:50:00 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+230917 13:50:01 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-09-17 13:50:01 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 343 ...
+2023-09-17 13:50:01 0 [Warning] Could not increase number of max_open_files to more than 9765 (request: 32185)
+2023-09-17 13:50:01 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-09-17 13:50:01 0 [Note] InnoDB: Number of pools: 1
+2023-09-17 13:50:01 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-09-17 13:50:01 0 [Note] InnoDB: Using liburing
+2023-09-17 13:50:01 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-09-17 13:50:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-09-17 13:50:01 0 [Note] InnoDB: 128 rollback segments are active.
+2023-09-17 13:50:01 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-09-17 13:50:01 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-09-17 13:50:01 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-09-17 13:50:01 0 [Note] InnoDB: 10.6.7 started; log sequence number 42301; transaction id 14
+2023-09-17 13:50:01 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-09-17 13:50:01 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-09-17 13:50:01 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-09-17 13:50:01 0 [Note] InnoDB: Buffer pool(s) load completed at 230917 13:50:01
+2023-09-17 13:50:01 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+230922 10:29:22 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-09-22 10:29:23 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 172 ...
+2023-09-22 10:29:23 0 [Warning] Could not increase number of max_open_files to more than 9765 (request: 32185)
+2023-09-22 10:29:23 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-09-22 10:29:23 0 [Note] InnoDB: Number of pools: 1
+2023-09-22 10:29:23 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-09-22 10:29:23 0 [Note] InnoDB: Using liburing
+2023-09-22 10:29:23 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-09-22 10:29:23 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-09-22 10:29:23 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42301,42301
+2023-09-22 10:29:24 0 [Note] InnoDB: 128 rollback segments are active.
+2023-09-22 10:29:24 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-09-22 10:29:24 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-09-22 10:29:24 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-09-22 10:29:24 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-09-22 10:29:24 0 [Note] InnoDB: 10.6.7 started; log sequence number 42457; transaction id 14
+2023-09-22 10:29:24 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-09-22 10:29:24 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-09-22 10:29:24 0 [Note] InnoDB: Buffer pool(s) load completed at 230922 10:29:24
+2023-09-22 10:29:24 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-09-22 10:29:24 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-09-22 10:29:24 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-09-22 10:29:24 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-09-22 10:29:24 0 [Note] InnoDB: Starting shutdown...
+2023-09-22 10:29:24 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-09-22 10:29:24 0 [Note] InnoDB: Buffer pool(s) dump completed at 230922 10:29:24
+2023-09-22 10:29:24 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-09-22 10:29:24 0 [Note] InnoDB: Shutdown completed; log sequence number 42469; transaction id 15
+2023-09-22 10:29:24 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+230922 10:29:24 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+230922 10:29:25 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-09-22 10:29:25 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 317 ...
+2023-09-22 10:29:25 0 [Warning] Could not increase number of max_open_files to more than 9765 (request: 32185)
+2023-09-22 10:29:25 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-09-22 10:29:25 0 [Note] InnoDB: Number of pools: 1
+2023-09-22 10:29:25 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-09-22 10:29:25 0 [Note] InnoDB: Using liburing
+2023-09-22 10:29:25 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-09-22 10:29:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-09-22 10:29:25 0 [Note] InnoDB: 128 rollback segments are active.
+2023-09-22 10:29:25 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-09-22 10:29:25 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-09-22 10:29:25 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-09-22 10:29:25 0 [Note] InnoDB: 10.6.7 started; log sequence number 42469; transaction id 14
+2023-09-22 10:29:25 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-09-22 10:29:25 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-09-22 10:29:25 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-09-22 10:29:25 0 [Note] InnoDB: Buffer pool(s) load completed at 230922 10:29:25
+2023-09-22 10:29:25 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+230929 12:15:26 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-09-29 12:15:27 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 172 ...
+2023-09-29 12:15:27 0 [Warning] Could not increase number of max_open_files to more than 9765 (request: 32185)
+2023-09-29 12:15:27 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-09-29 12:15:27 0 [Note] InnoDB: Number of pools: 1
+2023-09-29 12:15:27 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-09-29 12:15:27 0 [Note] InnoDB: Using liburing
+2023-09-29 12:15:27 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-09-29 12:15:27 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-09-29 12:15:27 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42469,42469
+2023-09-29 12:15:28 0 [Note] InnoDB: 128 rollback segments are active.
+2023-09-29 12:15:28 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-09-29 12:15:28 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-09-29 12:15:28 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-09-29 12:15:28 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-09-29 12:15:28 0 [Note] InnoDB: 10.6.7 started; log sequence number 42481; transaction id 14
+2023-09-29 12:15:28 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-09-29 12:15:28 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-09-29 12:15:28 0 [Note] InnoDB: Buffer pool(s) load completed at 230929 12:15:28
+2023-09-29 12:15:28 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-09-29 12:15:28 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-09-29 12:15:28 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-09-29 12:15:28 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-09-29 12:15:28 0 [Note] InnoDB: Starting shutdown...
+2023-09-29 12:15:28 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-09-29 12:15:28 0 [Note] InnoDB: Buffer pool(s) dump completed at 230929 12:15:28
+2023-09-29 12:15:28 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-09-29 12:15:28 0 [Note] InnoDB: Shutdown completed; log sequence number 42509; transaction id 15
+2023-09-29 12:15:28 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+230929 12:15:28 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+230929 12:15:30 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-09-29 12:15:30 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 315 ...
+2023-09-29 12:15:30 0 [Warning] Could not increase number of max_open_files to more than 9765 (request: 32185)
+2023-09-29 12:15:30 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-09-29 12:15:30 0 [Note] InnoDB: Number of pools: 1
+2023-09-29 12:15:30 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-09-29 12:15:30 0 [Note] InnoDB: Using liburing
+2023-09-29 12:15:30 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-09-29 12:15:30 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-09-29 12:15:30 0 [Note] InnoDB: 128 rollback segments are active.
+2023-09-29 12:15:30 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-09-29 12:15:30 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-09-29 12:15:30 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-09-29 12:15:30 0 [Note] InnoDB: 10.6.7 started; log sequence number 42509; transaction id 14
+2023-09-29 12:15:30 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-09-29 12:15:30 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-09-29 12:15:30 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-09-29 12:15:30 0 [Note] InnoDB: Buffer pool(s) load completed at 230929 12:15:30
+2023-09-29 12:15:30 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231001 13:36:35 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-10-01 13:36:36 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 171 ...
+2023-10-01 13:36:36 0 [Warning] Could not increase number of max_open_files to more than 9765 (request: 32185)
+2023-10-01 13:36:36 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-10-01 13:36:36 0 [Note] InnoDB: Number of pools: 1
+2023-10-01 13:36:36 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-01 13:36:36 0 [Note] InnoDB: Using liburing
+2023-10-01 13:36:36 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-10-01 13:36:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-01 13:36:37 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42509,42509
+2023-10-01 13:36:37 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-01 13:36:37 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-01 13:36:37 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-01 13:36:37 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-01 13:36:37 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-10-01 13:36:37 0 [Note] InnoDB: 10.6.7 started; log sequence number 42521; transaction id 14
+2023-10-01 13:36:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-01 13:36:37 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-01 13:36:37 0 [Note] InnoDB: Buffer pool(s) load completed at 231001 13:36:37
+2023-10-01 13:36:37 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-10-01 13:36:37 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-10-01 13:36:38 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-10-01 13:36:38 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-10-01 13:36:38 0 [Note] InnoDB: Starting shutdown...
+2023-10-01 13:36:38 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-01 13:36:38 0 [Note] InnoDB: Buffer pool(s) dump completed at 231001 13:36:38
+2023-10-01 13:36:38 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-01 13:36:38 0 [Note] InnoDB: Shutdown completed; log sequence number 42545; transaction id 15
+2023-10-01 13:36:38 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231001 13:36:38 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231001 13:36:39 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-10-01 13:36:39 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 320 ...
+2023-10-01 13:36:39 0 [Warning] Could not increase number of max_open_files to more than 9765 (request: 32185)
+2023-10-01 13:36:39 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-10-01 13:36:39 0 [Note] InnoDB: Number of pools: 1
+2023-10-01 13:36:39 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-01 13:36:39 0 [Note] InnoDB: Using liburing
+2023-10-01 13:36:39 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-10-01 13:36:39 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-01 13:36:39 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-01 13:36:39 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-01 13:36:39 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-01 13:36:39 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-10-01 13:36:39 0 [Note] InnoDB: 10.6.7 started; log sequence number 42545; transaction id 14
+2023-10-01 13:36:39 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-01 13:36:39 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-01 13:36:39 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-10-01 13:36:39 0 [Note] InnoDB: Buffer pool(s) load completed at 231001 13:36:39
+2023-10-01 13:36:39 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231013 07:25:02 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-10-13  7:25:03 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 172 ...
+2023-10-13  7:25:03 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-10-13  7:25:03 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-10-13  7:25:03 0 [Note] InnoDB: Number of pools: 1
+2023-10-13  7:25:03 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-13  7:25:03 0 [Note] InnoDB: Using liburing
+2023-10-13  7:25:03 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-10-13  7:25:03 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-13  7:25:03 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42545,42545
+2023-10-13  7:25:04 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-13  7:25:04 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-13  7:25:04 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-13  7:25:04 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-13  7:25:04 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-10-13  7:25:04 0 [Note] InnoDB: 10.6.7 started; log sequence number 42557; transaction id 14
+2023-10-13  7:25:04 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-13  7:25:04 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-13  7:25:04 0 [Note] InnoDB: Buffer pool(s) load completed at 231013  7:25:04
+2023-10-13  7:25:04 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-10-13  7:25:04 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-10-13  7:25:04 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-10-13  7:25:04 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-10-13  7:25:04 0 [Note] InnoDB: Starting shutdown...
+2023-10-13  7:25:04 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-13  7:25:04 0 [Note] InnoDB: Buffer pool(s) dump completed at 231013  7:25:04
+2023-10-13  7:25:04 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-13  7:25:04 0 [Note] InnoDB: Shutdown completed; log sequence number 42569; transaction id 15
+2023-10-13  7:25:04 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231013 07:25:04 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231013 07:25:05 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-10-13  7:25:05 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 317 ...
+2023-10-13  7:25:05 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-10-13  7:25:05 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-10-13  7:25:05 0 [Note] InnoDB: Number of pools: 1
+2023-10-13  7:25:05 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-13  7:25:05 0 [Note] InnoDB: Using liburing
+2023-10-13  7:25:05 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-10-13  7:25:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-13  7:25:05 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-13  7:25:05 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-13  7:25:05 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-13  7:25:05 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-10-13  7:25:05 0 [Note] InnoDB: 10.6.7 started; log sequence number 42569; transaction id 14
+2023-10-13  7:25:05 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-13  7:25:05 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-13  7:25:05 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-10-13  7:25:05 0 [Note] InnoDB: Buffer pool(s) load completed at 231013  7:25:05
+2023-10-13  7:25:05 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231016 12:50:04 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-10-16 12:50:05 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 172 ...
+2023-10-16 12:50:05 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-10-16 12:50:05 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-10-16 12:50:05 0 [Note] InnoDB: Number of pools: 1
+2023-10-16 12:50:05 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-16 12:50:05 0 [Note] InnoDB: Using liburing
+2023-10-16 12:50:05 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-10-16 12:50:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-16 12:50:05 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42569,42569
+2023-10-16 12:50:05 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-16 12:50:05 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-16 12:50:05 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-16 12:50:05 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-16 12:50:05 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-10-16 12:50:05 0 [Note] InnoDB: 10.6.7 started; log sequence number 42581; transaction id 14
+2023-10-16 12:50:05 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-16 12:50:05 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-16 12:50:05 0 [Note] InnoDB: Buffer pool(s) load completed at 231016 12:50:05
+2023-10-16 12:50:05 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-10-16 12:50:05 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-10-16 12:50:06 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-10-16 12:50:06 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-10-16 12:50:06 0 [Note] InnoDB: Starting shutdown...
+2023-10-16 12:50:06 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-16 12:50:06 0 [Note] InnoDB: Buffer pool(s) dump completed at 231016 12:50:06
+2023-10-16 12:50:06 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-16 12:50:06 0 [Note] InnoDB: Shutdown completed; log sequence number 42593; transaction id 15
+2023-10-16 12:50:06 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231016 12:50:06 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231016 12:50:07 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-10-16 12:50:07 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 313 ...
+2023-10-16 12:50:07 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-10-16 12:50:07 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-10-16 12:50:07 0 [Note] InnoDB: Number of pools: 1
+2023-10-16 12:50:07 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-16 12:50:07 0 [Note] InnoDB: Using liburing
+2023-10-16 12:50:07 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-10-16 12:50:07 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-16 12:50:08 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-16 12:50:08 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-16 12:50:08 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-16 12:50:08 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-10-16 12:50:08 0 [Note] InnoDB: 10.6.7 started; log sequence number 42593; transaction id 14
+2023-10-16 12:50:08 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-16 12:50:08 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-16 12:50:08 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-10-16 12:50:08 0 [Note] InnoDB: Buffer pool(s) load completed at 231016 12:50:08
+2023-10-16 12:50:08 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231017 00:13:00 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-10-17  0:13:01 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 172 ...
+2023-10-17  0:13:01 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-10-17  0:13:01 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-10-17  0:13:01 0 [Note] InnoDB: Number of pools: 1
+2023-10-17  0:13:01 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-17  0:13:01 0 [Note] InnoDB: Using liburing
+2023-10-17  0:13:01 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-10-17  0:13:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-17  0:13:01 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42593,42593
+2023-10-17  0:13:02 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-17  0:13:02 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-17  0:13:02 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-17  0:13:02 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-17  0:13:02 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-10-17  0:13:02 0 [Note] InnoDB: 10.6.7 started; log sequence number 42605; transaction id 14
+2023-10-17  0:13:02 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-17  0:13:02 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-17  0:13:02 0 [Note] InnoDB: Buffer pool(s) load completed at 231017  0:13:02
+2023-10-17  0:13:02 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-10-17  0:13:02 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-10-17  0:13:02 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-10-17  0:13:02 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-10-17  0:13:02 0 [Note] InnoDB: Starting shutdown...
+2023-10-17  0:13:02 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-17  0:13:02 0 [Note] InnoDB: Buffer pool(s) dump completed at 231017  0:13:02
+2023-10-17  0:13:02 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-17  0:13:02 0 [Note] InnoDB: Shutdown completed; log sequence number 42629; transaction id 15
+2023-10-17  0:13:02 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231017 00:13:02 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231017 00:13:04 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-10-17  0:13:04 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 316 ...
+2023-10-17  0:13:04 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-10-17  0:13:04 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-10-17  0:13:04 0 [Note] InnoDB: Number of pools: 1
+2023-10-17  0:13:04 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-17  0:13:04 0 [Note] InnoDB: Using liburing
+2023-10-17  0:13:04 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-10-17  0:13:04 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-17  0:13:04 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-17  0:13:04 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-17  0:13:04 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-17  0:13:04 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-10-17  0:13:04 0 [Note] InnoDB: 10.6.7 started; log sequence number 42629; transaction id 14
+2023-10-17  0:13:04 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-17  0:13:04 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-17  0:13:04 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-10-17  0:13:04 0 [Note] InnoDB: Buffer pool(s) load completed at 231017  0:13:04
+2023-10-17  0:13:04 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231031 15:11:25 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-10-31 15:11:26 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 171 ...
+2023-10-31 15:11:26 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-10-31 15:11:26 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-10-31 15:11:26 0 [Note] InnoDB: Number of pools: 1
+2023-10-31 15:11:26 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-31 15:11:26 0 [Note] InnoDB: Using liburing
+2023-10-31 15:11:26 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-10-31 15:11:26 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-31 15:11:27 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42629,42629
+2023-10-31 15:11:27 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-31 15:11:27 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-31 15:11:27 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-31 15:11:27 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-31 15:11:27 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-10-31 15:11:27 0 [Note] InnoDB: 10.6.7 started; log sequence number 42641; transaction id 14
+2023-10-31 15:11:27 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-31 15:11:27 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-31 15:11:27 0 [Note] InnoDB: Buffer pool(s) load completed at 231031 15:11:27
+2023-10-31 15:11:27 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-10-31 15:11:27 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-10-31 15:11:28 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-10-31 15:11:28 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-10-31 15:11:28 0 [Note] InnoDB: Starting shutdown...
+2023-10-31 15:11:28 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-31 15:11:28 0 [Note] InnoDB: Buffer pool(s) dump completed at 231031 15:11:28
+2023-10-31 15:11:28 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-10-31 15:11:28 0 [Note] InnoDB: Shutdown completed; log sequence number 42665; transaction id 15
+2023-10-31 15:11:28 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231031 15:11:28 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231031 15:11:29 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-10-31 15:11:29 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 316 ...
+2023-10-31 15:11:29 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-10-31 15:11:30 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-10-31 15:11:30 0 [Note] InnoDB: Number of pools: 1
+2023-10-31 15:11:30 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-10-31 15:11:30 0 [Note] InnoDB: Using liburing
+2023-10-31 15:11:30 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-10-31 15:11:30 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-10-31 15:11:30 0 [Note] InnoDB: 128 rollback segments are active.
+2023-10-31 15:11:30 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-10-31 15:11:30 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-10-31 15:11:30 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-10-31 15:11:30 0 [Note] InnoDB: 10.6.7 started; log sequence number 42665; transaction id 14
+2023-10-31 15:11:30 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-10-31 15:11:30 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-10-31 15:11:30 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-10-31 15:11:30 0 [Note] InnoDB: Buffer pool(s) load completed at 231031 15:11:30
+2023-10-31 15:11:30 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-10-31 15:11:57 3 [Warning] Access denied for user 'root'@'localhost'
+231101 14:37:01 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-01 14:37:02 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 171 ...
+2023-11-01 14:37:02 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-01 14:37:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-01 14:37:02 0 [Note] InnoDB: Number of pools: 1
+2023-11-01 14:37:02 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-01 14:37:02 0 [Note] InnoDB: Using liburing
+2023-11-01 14:37:02 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-01 14:37:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-01 14:37:03 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42665,42665
+2023-11-01 14:37:03 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-01 14:37:03 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-01 14:37:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-01 14:37:03 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-01 14:37:03 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-01 14:37:03 0 [Note] InnoDB: 10.6.7 started; log sequence number 42677; transaction id 14
+2023-11-01 14:37:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-01 14:37:03 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-01 14:37:03 0 [Note] InnoDB: Buffer pool(s) load completed at 231101 14:37:03
+2023-11-01 14:37:03 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-01 14:37:03 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-11-01 14:37:04 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-11-01 14:37:04 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-11-01 14:37:04 0 [Note] InnoDB: Starting shutdown...
+2023-11-01 14:37:04 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-01 14:37:04 0 [Note] InnoDB: Buffer pool(s) dump completed at 231101 14:37:04
+2023-11-01 14:37:04 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-01 14:37:04 0 [Note] InnoDB: Shutdown completed; log sequence number 42701; transaction id 15
+2023-11-01 14:37:04 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231101 14:37:04 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231101 14:37:05 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-01 14:37:05 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 315 ...
+2023-11-01 14:37:05 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-01 14:37:05 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-01 14:37:05 0 [Note] InnoDB: Number of pools: 1
+2023-11-01 14:37:05 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-01 14:37:05 0 [Note] InnoDB: Using liburing
+2023-11-01 14:37:06 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-01 14:37:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-01 14:37:06 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-01 14:37:06 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-01 14:37:06 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-01 14:37:06 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-01 14:37:06 0 [Note] InnoDB: 10.6.7 started; log sequence number 42701; transaction id 14
+2023-11-01 14:37:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-01 14:37:06 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-01 14:37:06 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-01 14:37:06 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-11-01 14:37:06 0 [Note] InnoDB: Buffer pool(s) load completed at 231101 14:37:06
+231104 06:42:59 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-04  6:43:00 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 171 ...
+2023-11-04  6:43:00 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-04  6:43:00 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-04  6:43:00 0 [Note] InnoDB: Number of pools: 1
+2023-11-04  6:43:00 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-04  6:43:00 0 [Note] InnoDB: Using liburing
+2023-11-04  6:43:00 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-04  6:43:00 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-04  6:43:00 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42701,42701
+2023-11-04  6:43:00 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-04  6:43:00 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-04  6:43:00 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-04  6:43:00 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-04  6:43:00 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-04  6:43:00 0 [Note] InnoDB: 10.6.7 started; log sequence number 42713; transaction id 14
+2023-11-04  6:43:00 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-04  6:43:00 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-04  6:43:00 0 [Note] InnoDB: Buffer pool(s) load completed at 231104  6:43:00
+2023-11-04  6:43:00 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-04  6:43:00 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-11-04  6:43:01 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-11-04  6:43:01 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-11-04  6:43:01 0 [Note] InnoDB: Starting shutdown...
+2023-11-04  6:43:01 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-04  6:43:01 0 [Note] InnoDB: Buffer pool(s) dump completed at 231104  6:43:01
+2023-11-04  6:43:01 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-04  6:43:01 0 [Note] InnoDB: Shutdown completed; log sequence number 42725; transaction id 15
+2023-11-04  6:43:01 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231104 06:43:01 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231104 06:43:02 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-04  6:43:02 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 316 ...
+2023-11-04  6:43:02 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-04  6:43:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-04  6:43:02 0 [Note] InnoDB: Number of pools: 1
+2023-11-04  6:43:02 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-04  6:43:02 0 [Note] InnoDB: Using liburing
+2023-11-04  6:43:02 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-04  6:43:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-04  6:43:02 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-04  6:43:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-04  6:43:03 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-04  6:43:03 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-04  6:43:03 0 [Note] InnoDB: 10.6.7 started; log sequence number 42725; transaction id 14
+2023-11-04  6:43:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-04  6:43:03 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-04  6:43:03 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-04  6:43:03 0 [Note] InnoDB: Buffer pool(s) load completed at 231104  6:43:03
+2023-11-04  6:43:03 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231114 08:08:36 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-14  8:08:37 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 170 ...
+2023-11-14  8:08:37 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-14  8:08:37 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-14  8:08:37 0 [Note] InnoDB: Number of pools: 1
+2023-11-14  8:08:37 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-14  8:08:37 0 [Note] InnoDB: Using liburing
+2023-11-14  8:08:37 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-14  8:08:37 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-14  8:08:37 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42725,42725
+2023-11-14  8:08:37 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-14  8:08:37 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-14  8:08:37 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-14  8:08:37 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-14  8:08:37 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-14  8:08:37 0 [Note] InnoDB: 10.6.7 started; log sequence number 42737; transaction id 14
+2023-11-14  8:08:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-14  8:08:37 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-14  8:08:37 0 [Note] InnoDB: Buffer pool(s) load completed at 231114  8:08:37
+2023-11-14  8:08:37 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-14  8:08:37 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-11-14  8:08:38 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-11-14  8:08:38 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-11-14  8:08:38 0 [Note] InnoDB: Starting shutdown...
+2023-11-14  8:08:38 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-14  8:08:38 0 [Note] InnoDB: Buffer pool(s) dump completed at 231114  8:08:38
+2023-11-14  8:08:38 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-14  8:08:38 0 [Note] InnoDB: Shutdown completed; log sequence number 42749; transaction id 15
+2023-11-14  8:08:38 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231114 08:08:38 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231114 08:08:39 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-14  8:08:39 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 313 ...
+2023-11-14  8:08:39 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-14  8:08:39 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-14  8:08:39 0 [Note] InnoDB: Number of pools: 1
+2023-11-14  8:08:39 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-14  8:08:39 0 [Note] InnoDB: Using liburing
+2023-11-14  8:08:39 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-14  8:08:39 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-14  8:08:39 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-14  8:08:39 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-14  8:08:39 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-14  8:08:39 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-14  8:08:39 0 [Note] InnoDB: 10.6.7 started; log sequence number 42749; transaction id 14
+2023-11-14  8:08:39 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-14  8:08:39 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-14  8:08:39 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-14  8:08:39 0 [Note] InnoDB: Buffer pool(s) load completed at 231114  8:08:39
+2023-11-14  8:08:39 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231117 14:00:11 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-17 14:00:12 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 170 ...
+2023-11-17 14:00:12 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-17 14:00:12 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-17 14:00:12 0 [Note] InnoDB: Number of pools: 1
+2023-11-17 14:00:12 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-17 14:00:12 0 [Note] InnoDB: Using liburing
+2023-11-17 14:00:12 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-17 14:00:12 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-17 14:00:12 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42749,42749
+2023-11-17 14:00:13 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-17 14:00:13 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-17 14:00:13 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-17 14:00:13 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-17 14:00:13 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-17 14:00:13 0 [Note] InnoDB: 10.6.7 started; log sequence number 42761; transaction id 14
+2023-11-17 14:00:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-17 14:00:13 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-17 14:00:13 0 [Note] InnoDB: Buffer pool(s) load completed at 231117 14:00:13
+2023-11-17 14:00:13 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-17 14:00:13 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-11-17 14:00:13 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-11-17 14:00:13 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-11-17 14:00:13 0 [Note] InnoDB: Starting shutdown...
+2023-11-17 14:00:13 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-17 14:00:13 0 [Note] InnoDB: Buffer pool(s) dump completed at 231117 14:00:13
+2023-11-17 14:00:13 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-17 14:00:13 0 [Note] InnoDB: Shutdown completed; log sequence number 42773; transaction id 15
+2023-11-17 14:00:13 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231117 14:00:13 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231117 14:00:14 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-17 14:00:14 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 315 ...
+2023-11-17 14:00:14 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-17 14:00:14 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-17 14:00:14 0 [Note] InnoDB: Number of pools: 1
+2023-11-17 14:00:14 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-17 14:00:14 0 [Note] InnoDB: Using liburing
+2023-11-17 14:00:14 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-17 14:00:14 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-17 14:00:15 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-17 14:00:15 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-17 14:00:15 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-17 14:00:15 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-17 14:00:15 0 [Note] InnoDB: 10.6.7 started; log sequence number 42773; transaction id 14
+2023-11-17 14:00:15 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-17 14:00:15 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-17 14:00:15 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-17 14:00:15 0 [Note] InnoDB: Buffer pool(s) load completed at 231117 14:00:15
+2023-11-17 14:00:15 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231121 08:25:16 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-21  8:25:17 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 171 ...
+2023-11-21  8:25:17 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-21  8:25:17 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-21  8:25:17 0 [Note] InnoDB: Number of pools: 1
+2023-11-21  8:25:17 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-21  8:25:17 0 [Note] InnoDB: Using liburing
+2023-11-21  8:25:17 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-21  8:25:17 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-21  8:25:18 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42773,42773
+2023-11-21  8:25:18 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-21  8:25:18 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-21  8:25:18 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-21  8:25:18 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-21  8:25:18 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-21  8:25:18 0 [Note] InnoDB: 10.6.7 started; log sequence number 42785; transaction id 14
+2023-11-21  8:25:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-21  8:25:18 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-21  8:25:18 0 [Note] InnoDB: Buffer pool(s) load completed at 231121  8:25:18
+2023-11-21  8:25:18 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-21  8:25:18 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-11-21  8:25:19 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-11-21  8:25:19 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-11-21  8:25:19 0 [Note] InnoDB: Starting shutdown...
+2023-11-21  8:25:19 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-21  8:25:19 0 [Note] InnoDB: Buffer pool(s) dump completed at 231121  8:25:19
+2023-11-21  8:25:19 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-21  8:25:19 0 [Note] InnoDB: Shutdown completed; log sequence number 42809; transaction id 15
+2023-11-21  8:25:19 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231121 08:25:19 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231121 08:25:20 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-21  8:25:20 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 314 ...
+2023-11-21  8:25:20 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-21  8:25:20 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-21  8:25:20 0 [Note] InnoDB: Number of pools: 1
+2023-11-21  8:25:20 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-21  8:25:20 0 [Note] InnoDB: Using liburing
+2023-11-21  8:25:20 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-21  8:25:20 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-21  8:25:21 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-21  8:25:21 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-21  8:25:21 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-21  8:25:21 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-21  8:25:21 0 [Note] InnoDB: 10.6.7 started; log sequence number 42809; transaction id 14
+2023-11-21  8:25:21 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-21  8:25:21 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-21  8:25:21 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-21  8:25:21 0 [Note] InnoDB: Buffer pool(s) load completed at 231121  8:25:21
+2023-11-21  8:25:21 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231129 10:51:36 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-29 10:51:38 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 174 ...
+2023-11-29 10:51:38 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-29 10:51:38 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-29 10:51:38 0 [Note] InnoDB: Number of pools: 1
+2023-11-29 10:51:38 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-29 10:51:38 0 [Note] InnoDB: Using liburing
+2023-11-29 10:51:38 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-29 10:51:38 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-29 10:51:38 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42809,42809
+2023-11-29 10:51:39 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-29 10:51:39 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-29 10:51:39 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-29 10:51:39 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-29 10:51:39 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-29 10:51:39 0 [Note] InnoDB: 10.6.7 started; log sequence number 42821; transaction id 14
+2023-11-29 10:51:39 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-29 10:51:39 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-29 10:51:39 0 [Note] InnoDB: Buffer pool(s) load completed at 231129 10:51:39
+2023-11-29 10:51:39 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-29 10:51:39 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-11-29 10:51:39 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-11-29 10:51:39 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-11-29 10:51:39 0 [Note] InnoDB: Starting shutdown...
+2023-11-29 10:51:39 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-29 10:51:39 0 [Note] InnoDB: Buffer pool(s) dump completed at 231129 10:51:39
+2023-11-29 10:51:40 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-11-29 10:51:40 0 [Note] InnoDB: Shutdown completed; log sequence number 42845; transaction id 15
+2023-11-29 10:51:40 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231129 10:51:40 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231129 10:51:41 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-11-29 10:51:41 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 319 ...
+2023-11-29 10:51:41 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-11-29 10:51:41 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-11-29 10:51:41 0 [Note] InnoDB: Number of pools: 1
+2023-11-29 10:51:41 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-11-29 10:51:41 0 [Note] InnoDB: Using liburing
+2023-11-29 10:51:41 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-11-29 10:51:41 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-11-29 10:51:41 0 [Note] InnoDB: 128 rollback segments are active.
+2023-11-29 10:51:41 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-11-29 10:51:41 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-11-29 10:51:41 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-11-29 10:51:41 0 [Note] InnoDB: 10.6.7 started; log sequence number 42845; transaction id 14
+2023-11-29 10:51:41 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-11-29 10:51:41 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-11-29 10:51:41 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-11-29 10:51:41 0 [Note] InnoDB: Buffer pool(s) load completed at 231129 10:51:41
+2023-11-29 10:51:41 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231211 03:16:46 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-12-11  3:16:47 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 173 ...
+2023-12-11  3:16:47 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-12-11  3:16:47 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-12-11  3:16:47 0 [Note] InnoDB: Number of pools: 1
+2023-12-11  3:16:47 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-12-11  3:16:47 0 [Note] InnoDB: Using liburing
+2023-12-11  3:16:47 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-12-11  3:16:47 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-12-11  3:16:48 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42845,42845
+2023-12-11  3:16:48 0 [Note] InnoDB: 128 rollback segments are active.
+2023-12-11  3:16:48 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-12-11  3:16:48 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-12-11  3:16:48 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-12-11  3:16:48 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-12-11  3:16:49 0 [Note] InnoDB: 10.6.7 started; log sequence number 42857; transaction id 14
+2023-12-11  3:16:49 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-12-11  3:16:49 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-11  3:16:49 0 [Note] InnoDB: Buffer pool(s) load completed at 231211  3:16:49
+2023-12-11  3:16:49 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-12-11  3:16:49 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-12-11  3:16:49 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-12-11  3:16:49 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-12-11  3:16:49 0 [Note] InnoDB: Starting shutdown...
+2023-12-11  3:16:49 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-11  3:16:49 0 [Note] InnoDB: Buffer pool(s) dump completed at 231211  3:16:49
+2023-12-11  3:16:49 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-12-11  3:16:49 0 [Note] InnoDB: Shutdown completed; log sequence number 42881; transaction id 15
+2023-12-11  3:16:49 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231211 03:16:49 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231211 03:16:51 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-12-11  3:16:51 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 314 ...
+2023-12-11  3:16:51 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-12-11  3:16:51 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-12-11  3:16:51 0 [Note] InnoDB: Number of pools: 1
+2023-12-11  3:16:51 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-12-11  3:16:51 0 [Note] InnoDB: Using liburing
+2023-12-11  3:16:51 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-12-11  3:16:51 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-12-11  3:16:53 0 [Note] InnoDB: 128 rollback segments are active.
+2023-12-11  3:16:53 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-12-11  3:16:53 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-12-11  3:16:53 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-12-11  3:16:53 0 [Note] InnoDB: 10.6.7 started; log sequence number 42881; transaction id 14
+2023-12-11  3:16:53 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-12-11  3:16:53 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-11  3:16:53 0 [Note] InnoDB: Buffer pool(s) load completed at 231211  3:16:53
+2023-12-11  3:16:53 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-12-11  3:16:54 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231212 08:34:54 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-12-12  8:34:55 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 173 ...
+2023-12-12  8:34:55 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-12-12  8:34:56 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-12-12  8:34:56 0 [Note] InnoDB: Number of pools: 1
+2023-12-12  8:34:56 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-12-12  8:34:56 0 [Note] InnoDB: Using liburing
+2023-12-12  8:34:56 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-12-12  8:34:56 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-12-12  8:34:56 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42881,42881
+2023-12-12  8:34:57 0 [Note] InnoDB: 128 rollback segments are active.
+2023-12-12  8:34:57 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-12-12  8:34:57 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-12-12  8:34:57 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-12-12  8:34:57 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-12-12  8:34:57 0 [Note] InnoDB: 10.6.7 started; log sequence number 42893; transaction id 14
+2023-12-12  8:34:57 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-12-12  8:34:57 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-12  8:34:57 0 [Note] InnoDB: Buffer pool(s) load completed at 231212  8:34:57
+2023-12-12  8:34:57 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-12-12  8:34:58 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-12-12  8:34:59 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-12-12  8:34:59 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-12-12  8:34:59 0 [Note] InnoDB: Starting shutdown...
+2023-12-12  8:34:59 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-12  8:34:59 0 [Note] InnoDB: Buffer pool(s) dump completed at 231212  8:34:59
+2023-12-12  8:34:59 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-12-12  8:34:59 0 [Note] InnoDB: Shutdown completed; log sequence number 42905; transaction id 15
+2023-12-12  8:34:59 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231212 08:35:00 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231212 08:35:01 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-12-12  8:35:02 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 321 ...
+2023-12-12  8:35:02 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-12-12  8:35:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-12-12  8:35:02 0 [Note] InnoDB: Number of pools: 1
+2023-12-12  8:35:02 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-12-12  8:35:02 0 [Note] InnoDB: Using liburing
+2023-12-12  8:35:02 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-12-12  8:35:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-12-12  8:35:02 0 [Note] InnoDB: 128 rollback segments are active.
+2023-12-12  8:35:02 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-12-12  8:35:02 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-12-12  8:35:02 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-12-12  8:35:02 0 [Note] InnoDB: 10.6.7 started; log sequence number 42905; transaction id 14
+2023-12-12  8:35:02 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-12-12  8:35:02 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-12  8:35:02 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-12-12  8:35:02 0 [Note] InnoDB: Buffer pool(s) load completed at 231212  8:35:02
+2023-12-12  8:35:02 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231214 14:30:05 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-12-14 14:30:06 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 176 ...
+2023-12-14 14:30:06 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-12-14 14:30:07 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-12-14 14:30:07 0 [Note] InnoDB: Number of pools: 1
+2023-12-14 14:30:07 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-12-14 14:30:07 0 [Note] InnoDB: Using liburing
+2023-12-14 14:30:07 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-12-14 14:30:07 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-12-14 14:30:07 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42905,42905
+2023-12-14 14:30:08 0 [Note] InnoDB: 128 rollback segments are active.
+2023-12-14 14:30:08 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-12-14 14:30:08 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-12-14 14:30:08 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-12-14 14:30:08 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-12-14 14:30:08 0 [Note] InnoDB: 10.6.7 started; log sequence number 42917; transaction id 14
+2023-12-14 14:30:08 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-12-14 14:30:08 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-14 14:30:08 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-12-14 14:30:08 0 [Note] InnoDB: Buffer pool(s) load completed at 231214 14:30:08
+2023-12-14 14:30:08 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-12-14 14:30:09 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-12-14 14:30:09 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-12-14 14:30:09 0 [Note] InnoDB: Starting shutdown...
+2023-12-14 14:30:09 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-14 14:30:09 0 [Note] InnoDB: Buffer pool(s) dump completed at 231214 14:30:09
+2023-12-14 14:30:10 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-12-14 14:30:10 0 [Note] InnoDB: Shutdown completed; log sequence number 42929; transaction id 15
+2023-12-14 14:30:10 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231214 14:30:10 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231214 14:30:12 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-12-14 14:30:13 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 322 ...
+2023-12-14 14:30:13 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-12-14 14:30:13 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-12-14 14:30:13 0 [Note] InnoDB: Number of pools: 1
+2023-12-14 14:30:13 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-12-14 14:30:13 0 [Note] InnoDB: Using liburing
+2023-12-14 14:30:13 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-12-14 14:30:13 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-12-14 14:30:14 0 [Note] InnoDB: 128 rollback segments are active.
+2023-12-14 14:30:14 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-12-14 14:30:14 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-12-14 14:30:14 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-12-14 14:30:14 0 [Note] InnoDB: 10.6.7 started; log sequence number 42929; transaction id 14
+2023-12-14 14:30:14 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-12-14 14:30:14 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-14 14:30:14 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-12-14 14:30:14 0 [Note] InnoDB: Buffer pool(s) load completed at 231214 14:30:14
+2023-12-14 14:30:14 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+231224 06:34:04 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-12-24  6:34:04 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 173 ...
+2023-12-24  6:34:04 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-12-24  6:34:05 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-12-24  6:34:05 0 [Note] InnoDB: Number of pools: 1
+2023-12-24  6:34:05 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-12-24  6:34:05 0 [Note] InnoDB: Using liburing
+2023-12-24  6:34:05 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-12-24  6:34:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-12-24  6:34:05 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42929,42929
+2023-12-24  6:34:06 0 [Note] InnoDB: 128 rollback segments are active.
+2023-12-24  6:34:06 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-12-24  6:34:06 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-12-24  6:34:06 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-12-24  6:34:06 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-12-24  6:34:06 0 [Note] InnoDB: 10.6.7 started; log sequence number 42941; transaction id 14
+2023-12-24  6:34:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-12-24  6:34:06 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-24  6:34:06 0 [Note] InnoDB: Buffer pool(s) load completed at 231224  6:34:06
+2023-12-24  6:34:06 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-12-24  6:34:06 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2023-12-24  6:34:06 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2023-12-24  6:34:06 0 [Note] InnoDB: FTS optimize thread exiting.
+2023-12-24  6:34:06 0 [Note] InnoDB: Starting shutdown...
+2023-12-24  6:34:06 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-24  6:34:06 0 [Note] InnoDB: Buffer pool(s) dump completed at 231224  6:34:06
+2023-12-24  6:34:07 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2023-12-24  6:34:07 0 [Note] InnoDB: Shutdown completed; log sequence number 42965; transaction id 15
+2023-12-24  6:34:07 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+231224 06:34:07 mysqld_safe mysqld from pid file /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/mysqld.pid ended
+231224 06:34:08 mysqld_safe Starting mariadbd daemon with databases from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data
+2023-12-24  6:34:08 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 320 ...
+2023-12-24  6:34:08 0 [Warning] Could not increase number of max_open_files to more than 5242 (request: 32185)
+2023-12-24  6:34:08 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-12-24  6:34:08 0 [Note] InnoDB: Number of pools: 1
+2023-12-24  6:34:08 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2023-12-24  6:34:08 0 [Note] InnoDB: Using liburing
+2023-12-24  6:34:08 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2023-12-24  6:34:08 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-12-24  6:34:09 0 [Note] InnoDB: 128 rollback segments are active.
+2023-12-24  6:34:09 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-12-24  6:34:09 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-12-24  6:34:09 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2023-12-24  6:34:09 0 [Note] InnoDB: 10.6.7 started; log sequence number 42965; transaction id 14
+2023-12-24  6:34:09 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/release-fd49c9f5-8791-48e2-836c-6d30a2f7d593/sql_data/ib_buffer_pool
+2023-12-24  6:34:09 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-12-24  6:34:09 0 [Note] InnoDB: Buffer pool(s) load completed at 231224  6:34:09
+2023-12-24  6:34:09 0 [Note] Server socket created on IP: '127.0.0.1'.
+2023-12-24  6:34:09 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+240703 07:58:15 mysqld_safe Starting mariadbd daemon with databases from /home/runner/phpMyadmin-MySQL/sql_data
+2024-07-03  7:58:15 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 260 ...
+2024-07-03  7:58:15 0 [Warning] Could not increase number of max_open_files to more than 20971 (request: 32188)
+2024-07-03  7:58:16 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-07-03  7:58:16 0 [Note] InnoDB: Number of pools: 1
+2024-07-03  7:58:16 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2024-07-03  7:58:16 0 [Note] InnoDB: Using liburing
+2024-07-03  7:58:16 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2024-07-03  7:58:16 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-07-03  7:58:16 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42965,42965
+2024-07-03  7:58:16 0 [Note] InnoDB: 128 rollback segments are active.
+2024-07-03  7:58:16 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2024-07-03  7:58:16 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-07-03  7:58:16 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-07-03  7:58:16 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-07-03  7:58:16 0 [Note] InnoDB: 10.6.7 started; log sequence number 42977; transaction id 14
+2024-07-03  7:58:16 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-07-03  7:58:16 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/phpMyadmin-MySQL/sql_data/ib_buffer_pool
+2024-07-03  7:58:16 0 [Note] InnoDB: Buffer pool(s) load completed at 240703  7:58:16
+2024-07-03  7:58:16 0 [Note] Server socket created on IP: '127.0.0.1'.
+2024-07-03  7:58:16 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2024-07-03  7:58:16 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2024-07-03  7:58:16 0 [Note] InnoDB: FTS optimize thread exiting.
+2024-07-03  7:58:16 0 [Note] InnoDB: Starting shutdown...
+2024-07-03  7:58:16 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/phpMyadmin-MySQL/sql_data/ib_buffer_pool
+2024-07-03  7:58:16 0 [Note] InnoDB: Buffer pool(s) dump completed at 240703  7:58:16
+2024-07-03  7:58:17 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2024-07-03  7:58:17 0 [Note] InnoDB: Shutdown completed; log sequence number 42989; transaction id 15
+2024-07-03  7:58:17 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+240703 07:58:17 mysqld_safe mysqld from pid file /home/runner/phpMyadmin-MySQL/sql_data/mysqld.pid ended
+240703 07:58:18 mysqld_safe Starting mariadbd daemon with databases from /home/runner/phpMyadmin-MySQL/sql_data
+2024-07-03  7:58:18 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 402 ...
+2024-07-03  7:58:18 0 [Warning] Could not increase number of max_open_files to more than 20971 (request: 32188)
+2024-07-03  7:58:18 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-07-03  7:58:18 0 [Note] InnoDB: Number of pools: 1
+2024-07-03  7:58:18 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2024-07-03  7:58:18 0 [Note] InnoDB: Using liburing
+2024-07-03  7:58:18 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2024-07-03  7:58:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-07-03  7:58:18 0 [Note] InnoDB: 128 rollback segments are active.
+2024-07-03  7:58:18 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-07-03  7:58:18 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-07-03  7:58:18 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-07-03  7:58:18 0 [Note] InnoDB: 10.6.7 started; log sequence number 42989; transaction id 14
+2024-07-03  7:58:18 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/phpMyadmin-MySQL/sql_data/ib_buffer_pool
+2024-07-03  7:58:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-07-03  7:58:18 0 [Note] Server socket created on IP: '127.0.0.1'.
+2024-07-03  7:58:18 0 [Note] InnoDB: Buffer pool(s) load completed at 240703  7:58:18
+2024-07-03  7:58:18 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2024-07-03  8:16:52 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: unknown): Normal shutdown
+2024-07-03  8:16:52 0 [Note] InnoDB: FTS optimize thread exiting.
+2024-07-03  8:16:52 0 [Note] InnoDB: Starting shutdown...
+2024-07-03  8:16:52 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/phpMyadmin-MySQL/sql_data/ib_buffer_pool
+2024-07-03  8:16:52 0 [Note] InnoDB: Buffer pool(s) dump completed at 240703  8:16:52
+240703 08:16:59 mysqld_safe Starting mariadbd daemon with databases from /home/runner/phpMyadmin-MySQL/sql_data
+2024-07-03  8:16:59 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 648 ...
+2024-07-03  8:16:59 0 [Warning] Could not increase number of max_open_files to more than 20971 (request: 32188)
+2024-07-03  8:16:59 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-07-03  8:16:59 0 [Note] InnoDB: Number of pools: 1
+2024-07-03  8:16:59 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2024-07-03  8:16:59 0 [Note] InnoDB: Using liburing
+2024-07-03  8:16:59 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2024-07-03  8:16:59 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-07-03  8:16:59 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=42989,42989
+2024-07-03  8:16:59 0 [Note] InnoDB: 128 rollback segments are active.
+2024-07-03  8:16:59 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2024-07-03  8:16:59 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-07-03  8:16:59 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-07-03  8:16:59 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-07-03  8:16:59 0 [Note] InnoDB: 10.6.7 started; log sequence number 43001; transaction id 14
+2024-07-03  8:16:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-07-03  8:16:59 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/phpMyadmin-MySQL/sql_data/ib_buffer_pool
+2024-07-03  8:16:59 0 [Note] Server socket created on IP: '127.0.0.1'.
+2024-07-03  8:16:59 0 [Note] InnoDB: Buffer pool(s) load completed at 240703  8:16:59
+2024-07-03  8:16:59 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2024-07-03  8:17:00 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2024-07-03  8:17:00 0 [Note] InnoDB: FTS optimize thread exiting.
+2024-07-03  8:17:00 0 [Note] InnoDB: Starting shutdown...
+2024-07-03  8:17:00 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/phpMyadmin-MySQL/sql_data/ib_buffer_pool
+2024-07-03  8:17:00 0 [Note] InnoDB: Buffer pool(s) dump completed at 240703  8:17:00
+2024-07-03  8:17:00 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2024-07-03  8:17:00 0 [Note] InnoDB: Shutdown completed; log sequence number 43029; transaction id 15
+2024-07-03  8:17:00 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+240703 08:17:00 mysqld_safe mysqld from pid file /home/runner/phpMyadmin-MySQL/sql_data/mysqld.pid ended
+240703 08:17:01 mysqld_safe Starting mariadbd daemon with databases from /home/runner/phpMyadmin-MySQL/sql_data
+2024-07-03  8:17:01 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 785 ...
+2024-07-03  8:17:01 0 [Warning] Could not increase number of max_open_files to more than 20971 (request: 32188)
+2024-07-03  8:17:01 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-07-03  8:17:01 0 [Note] InnoDB: Number of pools: 1
+2024-07-03  8:17:01 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2024-07-03  8:17:01 0 [Note] InnoDB: Using liburing
+2024-07-03  8:17:01 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2024-07-03  8:17:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-07-03  8:17:01 0 [Note] InnoDB: 128 rollback segments are active.
+2024-07-03  8:17:01 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-07-03  8:17:01 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-07-03  8:17:01 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-07-03  8:17:01 0 [Note] InnoDB: 10.6.7 started; log sequence number 43029; transaction id 14
+2024-07-03  8:17:01 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/phpMyadmin-MySQL/sql_data/ib_buffer_pool
+2024-07-03  8:17:01 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-07-03  8:17:01 0 [Note] Server socket created on IP: '127.0.0.1'.
+2024-07-03  8:17:01 0 [Note] InnoDB: Buffer pool(s) load completed at 240703  8:17:01
+2024-07-03  8:17:01 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+240703 08:51:39 mysqld_safe Starting mariadbd daemon with databases from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data
+2024-07-03  8:51:40 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 257 ...
+2024-07-03  8:51:40 0 [Warning] Could not increase number of max_open_files to more than 20971 (request: 32188)
+2024-07-03  8:51:40 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-07-03  8:51:40 0 [Note] InnoDB: Number of pools: 1
+2024-07-03  8:51:40 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2024-07-03  8:51:40 0 [Note] InnoDB: Using liburing
+2024-07-03  8:51:40 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2024-07-03  8:51:40 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-07-03  8:51:40 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=43029,43029
+2024-07-03  8:51:40 0 [Note] InnoDB: 128 rollback segments are active.
+2024-07-03  8:51:40 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2024-07-03  8:51:40 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-07-03  8:51:40 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-07-03  8:51:40 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-07-03  8:51:40 0 [Note] InnoDB: 10.6.7 started; log sequence number 43041; transaction id 14
+2024-07-03  8:51:40 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/ib_buffer_pool
+2024-07-03  8:51:40 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-07-03  8:51:40 0 [Note] InnoDB: Buffer pool(s) load completed at 240703  8:51:40
+2024-07-03  8:51:40 0 [Note] Server socket created on IP: '127.0.0.1'.
+2024-07-03  8:51:41 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2024-07-03  8:51:41 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2024-07-03  8:51:41 0 [Note] InnoDB: FTS optimize thread exiting.
+2024-07-03  8:51:41 0 [Note] InnoDB: Starting shutdown...
+2024-07-03  8:51:41 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/ib_buffer_pool
+2024-07-03  8:51:41 0 [Note] InnoDB: Buffer pool(s) dump completed at 240703  8:51:41
+2024-07-03  8:51:41 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2024-07-03  8:51:41 0 [Note] InnoDB: Shutdown completed; log sequence number 43053; transaction id 15
+2024-07-03  8:51:41 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+240703 08:51:41 mysqld_safe mysqld from pid file /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/mysqld.pid ended
+240703 08:51:42 mysqld_safe Starting mariadbd daemon with databases from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data
+2024-07-03  8:51:42 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 406 ...
+2024-07-03  8:51:42 0 [Warning] Could not increase number of max_open_files to more than 20971 (request: 32188)
+2024-07-03  8:51:42 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-07-03  8:51:42 0 [Note] InnoDB: Number of pools: 1
+2024-07-03  8:51:42 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2024-07-03  8:51:42 0 [Note] InnoDB: Using liburing
+2024-07-03  8:51:42 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2024-07-03  8:51:42 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-07-03  8:51:42 0 [Note] InnoDB: 128 rollback segments are active.
+2024-07-03  8:51:42 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-07-03  8:51:42 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-07-03  8:51:42 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-07-03  8:51:42 0 [Note] InnoDB: 10.6.7 started; log sequence number 43053; transaction id 14
+2024-07-03  8:51:42 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/ib_buffer_pool
+2024-07-03  8:51:42 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-07-03  8:51:42 0 [Note] InnoDB: Buffer pool(s) load completed at 240703  8:51:42
+2024-07-03  8:51:42 0 [Note] Server socket created on IP: '127.0.0.1'.
+2024-07-03  8:51:42 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+240920 03:06:00 mysqld_safe Starting mariadbd daemon with databases from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data
+2024-09-20  3:06:02 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 294 ...
+2024-09-20  3:06:02 0 [Warning] Could not increase number of max_open_files to more than 20971 (request: 32188)
+2024-09-20  3:06:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-09-20  3:06:02 0 [Note] InnoDB: Number of pools: 1
+2024-09-20  3:06:02 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2024-09-20  3:06:02 0 [Warning] mariadbd: io_uring_queue_init() failed with errno 1
+2024-09-20  3:06:02 0 [Warning] InnoDB: liburing disabled: falling back to innodb_use_native_aio=OFF
+2024-09-20  3:06:02 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2024-09-20  3:06:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-09-20  3:06:02 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=43053,43053
+2024-09-20  3:06:02 0 [Note] InnoDB: 128 rollback segments are active.
+2024-09-20  3:06:03 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2024-09-20  3:06:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-09-20  3:06:03 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-09-20  3:06:03 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-09-20  3:06:03 0 [Note] InnoDB: 10.6.7 started; log sequence number 43065; transaction id 14
+2024-09-20  3:06:03 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/ib_buffer_pool
+2024-09-20  3:06:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-09-20  3:06:03 0 [Note] InnoDB: Buffer pool(s) load completed at 240920  3:06:03
+2024-09-20  3:06:03 0 [Note] Server socket created on IP: '127.0.0.1'.
+2024-09-20  3:06:03 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2024-09-20  3:06:03 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2024-09-20  3:06:03 0 [Note] InnoDB: FTS optimize thread exiting.
+2024-09-20  3:06:03 0 [Note] InnoDB: Starting shutdown...
+2024-09-20  3:06:03 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/ib_buffer_pool
+2024-09-20  3:06:03 0 [Note] InnoDB: Buffer pool(s) dump completed at 240920  3:06:03
+2024-09-20  3:06:03 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2024-09-20  3:06:03 0 [Note] InnoDB: Shutdown completed; log sequence number 43089; transaction id 15
+2024-09-20  3:06:03 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+240920 03:06:03 mysqld_safe mysqld from pid file /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/mysqld.pid ended
+240920 03:06:04 mysqld_safe Starting mariadbd daemon with databases from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data
+2024-09-20  3:06:04 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 435 ...
+2024-09-20  3:06:04 0 [Warning] Could not increase number of max_open_files to more than 20971 (request: 32188)
+2024-09-20  3:06:04 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-09-20  3:06:04 0 [Note] InnoDB: Number of pools: 1
+2024-09-20  3:06:04 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2024-09-20  3:06:04 0 [Warning] mariadbd: io_uring_queue_init() failed with errno 1
+2024-09-20  3:06:04 0 [Warning] InnoDB: liburing disabled: falling back to innodb_use_native_aio=OFF
+2024-09-20  3:06:04 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2024-09-20  3:06:04 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-09-20  3:06:05 0 [Note] InnoDB: 128 rollback segments are active.
+2024-09-20  3:06:05 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-09-20  3:06:05 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-09-20  3:06:05 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-09-20  3:06:05 0 [Note] InnoDB: 10.6.7 started; log sequence number 43089; transaction id 14
+2024-09-20  3:06:05 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-09-20  3:06:05 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/ib_buffer_pool
+2024-09-20  3:06:05 0 [Note] Server socket created on IP: '127.0.0.1'.
+2024-09-20  3:06:05 0 [Note] InnoDB: Buffer pool(s) load completed at 240920  3:06:05
+2024-09-20  3:06:05 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2024-09-20  3:07:47 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: unknown): Normal shutdown
+2024-09-20  3:07:47 0 [Note] InnoDB: FTS optimize thread exiting.
+2024-09-20  3:07:47 0 [Note] InnoDB: Starting shutdown...
+2024-09-20  3:07:47 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/ib_buffer_pool
+2024-09-20  3:07:47 0 [Note] InnoDB: Buffer pool(s) dump completed at 240920  3:07:47
+240920 03:07:48 mysqld_safe Starting mariadbd daemon with databases from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data
+2024-09-20  3:07:48 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 679 ...
+2024-09-20  3:07:48 0 [Warning] Could not increase number of max_open_files to more than 20971 (request: 32188)
+2024-09-20  3:07:48 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-09-20  3:07:48 0 [Note] InnoDB: Number of pools: 1
+2024-09-20  3:07:48 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2024-09-20  3:07:48 0 [Warning] mariadbd: io_uring_queue_init() failed with errno 1
+2024-09-20  3:07:48 0 [Warning] InnoDB: liburing disabled: falling back to innodb_use_native_aio=OFF
+2024-09-20  3:07:48 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2024-09-20  3:07:48 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-09-20  3:07:48 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=43089,43089
+2024-09-20  3:07:48 0 [Note] InnoDB: 128 rollback segments are active.
+2024-09-20  3:07:48 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2024-09-20  3:07:48 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-09-20  3:07:48 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-09-20  3:07:48 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-09-20  3:07:48 0 [Note] InnoDB: 10.6.7 started; log sequence number 43101; transaction id 14
+2024-09-20  3:07:48 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/ib_buffer_pool
+2024-09-20  3:07:48 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-09-20  3:07:48 0 [Note] Server socket created on IP: '127.0.0.1'.
+2024-09-20  3:07:48 0 [Note] InnoDB: Buffer pool(s) load completed at 240920  3:07:48
+2024-09-20  3:07:48 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2024-09-20  3:07:49 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (initiated by: runner[runner] @ localhost []): Normal shutdown
+2024-09-20  3:07:49 0 [Note] InnoDB: FTS optimize thread exiting.
+2024-09-20  3:07:49 0 [Note] InnoDB: Starting shutdown...
+2024-09-20  3:07:49 0 [Note] InnoDB: Dumping buffer pool(s) to /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/ib_buffer_pool
+2024-09-20  3:07:49 0 [Note] InnoDB: Buffer pool(s) dump completed at 240920  3:07:49
+2024-09-20  3:07:49 0 [Note] InnoDB: Removed temporary tablespace data file: "./ibtmp1"
+2024-09-20  3:07:49 0 [Note] InnoDB: Shutdown completed; log sequence number 43113; transaction id 15
+2024-09-20  3:07:49 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: Shutdown complete
+
+240920 03:07:49 mysqld_safe mysqld from pid file /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/mysqld.pid ended
+240920 03:07:50 mysqld_safe Starting mariadbd daemon with databases from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data
+2024-09-20  3:07:50 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd (server 10.6.7-MariaDB-log) starting as process 817 ...
+2024-09-20  3:07:50 0 [Warning] Could not increase number of max_open_files to more than 20971 (request: 32188)
+2024-09-20  3:07:50 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-09-20  3:07:50 0 [Note] InnoDB: Number of pools: 1
+2024-09-20  3:07:50 0 [Note] InnoDB: Using crc32 + pclmulqdq instructions
+2024-09-20  3:07:50 0 [Warning] mariadbd: io_uring_queue_init() failed with errno 1
+2024-09-20  3:07:50 0 [Warning] InnoDB: liburing disabled: falling back to innodb_use_native_aio=OFF
+2024-09-20  3:07:50 0 [Note] InnoDB: Initializing buffer pool, total size = 134217728, chunk size = 134217728
+2024-09-20  3:07:50 0 [Note] InnoDB: Completed initialization of buffer pool
+2024-09-20  3:07:50 0 [Note] InnoDB: 128 rollback segments are active.
+2024-09-20  3:07:50 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2024-09-20  3:07:50 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2024-09-20  3:07:50 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2024-09-20  3:07:50 0 [Note] InnoDB: 10.6.7 started; log sequence number 43113; transaction id 14
+2024-09-20  3:07:50 0 [Note] InnoDB: Loading buffer pool(s) from /home/runner/phpMyadmin-MySQL-all-privileges/sql_data/ib_buffer_pool
+2024-09-20  3:07:50 0 [Note] Plugin 'FEEDBACK' is disabled.
+2024-09-20  3:07:50 0 [Note] Server socket created on IP: '127.0.0.1'.
+2024-09-20  3:07:50 0 [Note] InnoDB: Buffer pool(s) load completed at 240920  3:07:50
+2024-09-20  3:07:50 0 [Note] /nix/store/iswl6kainniybjqjc9wb8415sy6xij6d-mariadb-server-10.6.7/bin/mariadbd: ready for connections.
+Version: '10.6.7-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  MariaDB Server
+2024-09-20  3:12:54 3 [Warning] Access denied for user 'db_user'@'localhost' (using password: YES)
